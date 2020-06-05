@@ -1,0 +1,7 @@
+E:\Documents\Unreal Projects\DroneScheduler\Source\MyProject\MyProject.Build.cs
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\PythonAutomation\PythonAutomation.Build.cs
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\PythonConsole\PythonConsole.Build.cs
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\PythonEditor\PythonEditor.Build.cs
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\UnrealEnginePython.Build.cs
+E:\Documents\Unreal Projects\DroneScheduler\Source\MyProject.Target.cs
+E:\Documents\Unreal Projects\DroneScheduler\Source\MyProjectEditor.Target.cs

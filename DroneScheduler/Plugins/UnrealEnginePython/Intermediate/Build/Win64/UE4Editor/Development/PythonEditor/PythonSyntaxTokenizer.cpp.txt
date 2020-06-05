@@ -1,0 +1,5 @@
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\Definitions.PythonEditor.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\pythoneditor\private\PythonSyntaxTokenizer.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime/Slate/Public/Framework/Text/SyntaxTokenizer.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime/Core/Public/Internationalization/BreakIterator.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/IBreakIterator.h

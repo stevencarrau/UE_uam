@@ -1,0 +1,1254 @@
+﻿Log file open, 06/01/20 15:37:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DroneScheduler
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.065394
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ThoughtfishCoalaPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=YushiHattori -epicuserid=fe3dd1f880434720be12ab63a96a296e -epiclocale=en
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.01-20.37.43:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.01-20.37.43:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.01-20.37.43:058][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.01-20.37.43:061][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:061][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.01-20.37.43:061][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.01-20.37.43:061][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:061][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.01-20.37.43:062][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.01-20.37.43:062][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.01-20.37.43:062][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.01-20.37.43:065][  0]LogHAL: Display: Platform has ~ 16 GB [17127096320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.01-20.37.43:065][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.01-20.37.43:065][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.01-20.37.43:065][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.01-20.37.43:066][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.01-20.37.43:066][  0]LogInit: Computer: DESKTOP-EQLCNCF
+[2020.06.01-20.37.43:066][  0]LogInit: User: Yushi
+[2020.06.01-20.37.43:066][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.06.01-20.37.43:066][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.01-20.37.43:066][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.06.01-20.37.43:066][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.01-20.37.43:066][  0]LogMemory: Process Physical Memory: 106.30 MB used, 106.31 MB peak
+[2020.06.01-20.37.43:066][  0]LogMemory: Process Virtual Memory: 107.84 MB used, 107.84 MB peak
+[2020.06.01-20.37.43:066][  0]LogMemory: Physical Memory: 3436.71 MB used,  12896.96 MB free, 16333.67 MB total
+[2020.06.01-20.37.43:066][  0]LogMemory: Virtual Memory: 4724.04 MB used,  134213000.00 MB free, 134217728.00 MB total
+[2020.06.01-20.37.43:069][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.01-20.37.43:089][  0]LogInit: Using OS detected language (en-US).
+[2020.06.01-20.37.43:089][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.01-20.37.43:089][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.01-20.37.43:236][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.01-20.37.43:284][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.01-20.37.43:284][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.01-20.37.43:443][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.01-20.37.43:507][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2020.06.01-20.37.43:508][  0]LogD3D11RHI:       11127/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.01-20.37.43:510][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.01-20.37.43:510][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.01-20.37.43:510][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.01-20.37.43:517][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.01-20.37.43:517][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.01-20.37.43:517][  0]LogWindows: EnumDisplayDevices:
+[2020.06.01-20.37.43:517][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2020.06.01-20.37.43:518][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2020.06.01-20.37.43:518][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.06.01-20.37.43:518][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.06.01-20.37.43:518][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.01-20.37.43:518][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2020.06.01-20.37.43:518][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.06.01-20.37.43:518][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.06.01-20.37.43:518][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2020.06.01-20.37.43:570][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.01-20.37.43:593][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.01-20.37.43:846][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.06.01-20.37.43:854][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.06.01-20.37.43:862][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.06.01-20.37.43:869][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.06.01-20.37.43:877][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.06.01-20.37.43:885][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.06.01-20.37.43:893][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.01-20.37.43:901][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.06.01-20.37.43:905][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.06.01-20.37.43:934][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.06.01-20.37.43:936][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.06.01-20.37.43:952][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.06.01-20.37.43:952][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.06.01-20.37.43:966][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.06.01-20.37.43:966][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.06.01-20.37.43:973][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.06.01-20.37.43:980][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.01-20.37.43:987][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.06.01-20.37.43:994][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.06.01-20.37.44:017][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.06.01-20.37.44:017][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.06.01-20.37.44:017][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.01-20.37.44:025][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.01-20.37.44:063][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (E:/Documents/Unreal Projects/DroneScheduler/Intermediate/Shaders/WorkingDirectory/17900/).
+[2020.06.01-20.37.44:064][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yushi/AppData/Local/Temp/UnrealShaderWorkingDir/0D964D934E6589F7EC53FEBF36F8EBB9/'.
+[2020.06.01-20.37.44:065][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.01-20.37.44:065][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.01-20.37.44:065][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.01-20.37.44:644][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.01-20.37.44:683][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.01-20.37.44:683][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.06.01-20.37.44:683][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Documents/Unreal Projects/DroneScheduler/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.01-20.37.44:683][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.01-20.37.44:683][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Documents/Unreal Projects/DroneScheduler/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.01-20.37.44:683][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.01-20.37.44:694][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.01-20.37.44:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.01-20.37.44:694][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.01-20.37.44:695][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yushi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.01-20.37.44:695][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.01-20.37.44:695][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.01-20.37.44:715][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.01-20.37.44:718][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.01-20.37.44:719][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.01-20.37.44:766][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.06.01-20.37.45:025][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.01-20.37.45:154][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.01-20.37.45:154][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.01-20.37.45:154][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.01-20.37.45:154][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.01-20.37.45:154][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.01-20.37.45:162][  0]LogNetVersion: DroneScheduler 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2147798710)
+[2020.06.01-20.37.45:540][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.045181 seconds
+[2020.06.01-20.37.45:548][  0]LogUObjectArray: 43197 objects as part of root set at end of initial load.
+[2020.06.01-20.37.45:548][  0]LogUObjectAllocator: 7508232 out of 0 bytes used by permanent object pool.
+[2020.06.01-20.37.45:548][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.01-20.37.46:275][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.01-20.37.46:278][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.01-20.37.46:331][  0]SourceControl: Source control is disabled
+[2020.06.01-20.37.46:796][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.01-20.37.46:936][  0]LogOcInput: OculusInput pre-init called
+[2020.06.01-20.37.47:429][  0]LogPython: Python Scripts search path: E:/Documents/Unreal Projects/DroneScheduler/Content/Scripts
+[2020.06.01-20.37.47:429][  0]LogPython: Python Scripts search path: E:/Documents/Unreal Projects/DroneScheduler/Plugins/UnrealEnginePython
+[2020.06.01-20.37.47:429][  0]LogPython: Python VM initialized: 3.6.7 (v3.6.7:6ec5cf24b7, Oct 20 2018, 13:35:33) [MSC v.1900 64 bit (AMD64)]
+[2020.06.01-20.37.47:430][  0]LogPython: ue_site Python module not found
+[2020.06.01-20.37.47:497][  0]LogEngine: Initializing Engine...
+[2020.06.01-20.37.47:498][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.01-20.37.47:699][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.01-20.37.47:709][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.01-20.37.47:736][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.01-20.37.47:755][  0]LogInit: FAudioDevice initialized.
+[2020.06.01-20.37.47:756][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.01-20.37.47:844][  0]LogDerivedDataCache: Saved boot cache 0.09s 76MB C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.01-20.37.47:850][  0]LogInit: Texture streaming: Enabled
+[2020.06.01-20.37.47:864][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.01-20.37.47:864][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.01-20.37.47:865][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.01-20.37.47:936][  0]LogInit: Transaction tracking system initialized
+[2020.06.01-20.37.47:959][  0]BlueprintLog: New page: Editor Load
+[2020.06.01-20.37.48:014][  0]LocalizationService: Localization service is disabled
+[2020.06.01-20.37.48:216][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/' took 0.00s
+[2020.06.01-20.37.48:216][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.01-20.37.48:216][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.01-20.37.48:372][  0]Cmd: MAP LOAD FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.01-20.37.48:372][  0]LightingResults: New page: Lighting Build
+[2020.06.01-20.37.48:374][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-20.37.48:374][  0]MapCheck: New page: Map Check
+[2020.06.01-20.37.48:374][  0]LightingResults: New page: Lighting Build
+[2020.06.01-20.37.48:409][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.06.01-20.37.48:468][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/Helipad/Helipad_BP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:468][  0]LoadErrors: Failed to load /Game/Objects/ControlTower/RequesterInfo.RequesterInfo Referenced by K2Node_MakeStruct_RequesterInfo
+[2020.06.01-20.37.48:468][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/Helipad/Helipad_BP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:468][  0]LoadErrors: Failed to load /Game/Objects/ControlTower/RequesterInfo.RequesterInfo Referenced by K2Node_MakeStruct_RequesterInfo
+[2020.06.01-20.37.48:469][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/Helipad/Helipad_BP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:469][  0]LoadErrors: Failed to load /Game/Objects/ControlTower/RequesterInfo.RequesterInfo Referenced by K2Node_MakeStruct_RequesterInfo
+[2020.06.01-20.37.48:469][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/Helipad/Helipad_BP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:469][  0]LoadErrors: Failed to load /Game/Objects/ControlTower/RequesterInfo.RequesterInfo Referenced by K2Node_MakeStruct_RequesterInfo
+[2020.06.01-20.37.48:499][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:499][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_A.BG_Building_A Referenced by BG_Building_A_GEN_VARIABLE
+[2020.06.01-20.37.48:499][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:499][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_A.BG_Building_A Referenced by BG_Building_A_GEN_VARIABLE
+[2020.06.01-20.37.48:499][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:500][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_B.BG_Building_B Referenced by BG_Building_B_GEN_VARIABLE
+[2020.06.01-20.37.48:500][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:500][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_B.BG_Building_B Referenced by BG_Building_B_GEN_VARIABLE
+[2020.06.01-20.37.48:500][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:500][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_C.BG_Building_C Referenced by BG_Building_C_GEN_VARIABLE
+[2020.06.01-20.37.48:500][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:500][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_C.BG_Building_C Referenced by BG_Building_C_GEN_VARIABLE
+[2020.06.01-20.37.48:500][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:500][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_D.BG_Building_D Referenced by BG_Building_D_GEN_VARIABLE
+[2020.06.01-20.37.48:500][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:500][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_D.BG_Building_D Referenced by BG_Building_D_GEN_VARIABLE
+[2020.06.01-20.37.48:500][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:500][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_E.BG_Building_E Referenced by BG_Building_E_GEN_VARIABLE
+[2020.06.01-20.37.48:501][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:501][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_E.BG_Building_E Referenced by BG_Building_E_GEN_VARIABLE
+[2020.06.01-20.37.48:501][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:501][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_F.BG_Building_F Referenced by BG_Building_F_GEN_VARIABLE
+[2020.06.01-20.37.48:501][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:501][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_F.BG_Building_F Referenced by BG_Building_F_GEN_VARIABLE
+[2020.06.01-20.37.48:503][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:503][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:504][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:504][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:505][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:505][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_A.BG_Building_A Referenced by BG_Building_A_GEN_VARIABLE
+[2020.06.01-20.37.48:505][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:505][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_A.BG_Building_A Referenced by BG_Building_A_GEN_VARIABLE
+[2020.06.01-20.37.48:515][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:515][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:517][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:518][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:518][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:518][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:518][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:519][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:520][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:521][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:522][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:523][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:525][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:525][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_DynamicCast_1
+[2020.06.01-20.37.48:525][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:525][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_DynamicCast_1
+[2020.06.01-20.37.48:526][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:526][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_DynamicCast_1
+[2020.06.01-20.37.48:526][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:526][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_DynamicCast_1
+[2020.06.01-20.37.48:526][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:526][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_CallFunction_17
+[2020.06.01-20.37.48:526][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:526][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_CallFunction_17
+[2020.06.01-20.37.48:526][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:526][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_CallFunction_17
+[2020.06.01-20.37.48:526][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:526][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_CallFunction_17
+[2020.06.01-20.37.48:527][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:527][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_3
+[2020.06.01-20.37.48:527][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:527][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_3
+[2020.06.01-20.37.48:527][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:527][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_3
+[2020.06.01-20.37.48:527][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:527][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_3
+[2020.06.01-20.37.48:527][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:527][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_4
+[2020.06.01-20.37.48:527][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:527][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_4
+[2020.06.01-20.37.48:527][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:527][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_4
+[2020.06.01-20.37.48:527][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:528][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_4
+[2020.06.01-20.37.48:529][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:529][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_DynamicCast_2
+[2020.06.01-20.37.48:529][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:529][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_DynamicCast_2
+[2020.06.01-20.37.48:529][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:529][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_DynamicCast_2
+[2020.06.01-20.37.48:529][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:529][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_DynamicCast_2
+[2020.06.01-20.37.48:529][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:529][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_CallFunction_27
+[2020.06.01-20.37.48:529][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:529][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_CallFunction_27
+[2020.06.01-20.37.48:529][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:529][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_CallFunction_27
+[2020.06.01-20.37.48:529][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:530][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_CallFunction_27
+[2020.06.01-20.37.48:530][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:530][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_5
+[2020.06.01-20.37.48:530][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:530][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_5
+[2020.06.01-20.37.48:530][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:530][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_5
+[2020.06.01-20.37.48:530][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:530][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_5
+[2020.06.01-20.37.48:530][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:530][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_7
+[2020.06.01-20.37.48:530][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:530][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_7
+[2020.06.01-20.37.48:530][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:530][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_7
+[2020.06.01-20.37.48:531][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:531][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_7
+[2020.06.01-20.37.48:531][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:531][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_6
+[2020.06.01-20.37.48:531][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:531][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_6
+[2020.06.01-20.37.48:531][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:531][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_6
+[2020.06.01-20.37.48:531][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Drone/DroneSchedulerBP': Can't find file.
+[2020.06.01-20.37.48:531][  0]LoadErrors: Failed to load /Game/Drone/DroneSchedulerBP.DroneSchedulerBP_C Referenced by K2Node_VariableSet_6
+[2020.06.01-20.37.48:534][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:534][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_A.BG_Building_A Referenced by BG_Building_A_GEN_VARIABLE
+[2020.06.01-20.37.48:534][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:534][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_A.BG_Building_A Referenced by BG_Building_A_GEN_VARIABLE
+[2020.06.01-20.37.48:534][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:534][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_B.BG_Building_B Referenced by BG_Building_B_GEN_VARIABLE
+[2020.06.01-20.37.48:534][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:534][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_B.BG_Building_B Referenced by BG_Building_B_GEN_VARIABLE
+[2020.06.01-20.37.48:534][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:534][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_C.BG_Building_C Referenced by BG_Building_C_GEN_VARIABLE
+[2020.06.01-20.37.48:534][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:534][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_C.BG_Building_C Referenced by BG_Building_C_GEN_VARIABLE
+[2020.06.01-20.37.48:535][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:535][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_D.BG_Building_D Referenced by BG_Building_D_GEN_VARIABLE
+[2020.06.01-20.37.48:535][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:535][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_D.BG_Building_D Referenced by BG_Building_D_GEN_VARIABLE
+[2020.06.01-20.37.48:535][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:535][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_E.BG_Building_E Referenced by BG_Building_E_GEN_VARIABLE
+[2020.06.01-20.37.48:535][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:535][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_E.BG_Building_E Referenced by BG_Building_E_GEN_VARIABLE
+[2020.06.01-20.37.48:535][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:535][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_F.BG_Building_F Referenced by BG_Building_F_GEN_VARIABLE
+[2020.06.01-20.37.48:535][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:535][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_F.BG_Building_F Referenced by BG_Building_F_GEN_VARIABLE
+[2020.06.01-20.37.48:555][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:555][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:555][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:556][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:557][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:557][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:557][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:557][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:557][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:557][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:557][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:557][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:704][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:705][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:706][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:706][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.01-20.37.48:706][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:706][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_B': Can't find file.
+[2020.06.01-20.37.48:707][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:707][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_C': Can't find file.
+[2020.06.01-20.37.48:707][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:707][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_D': Can't find file.
+[2020.06.01-20.37.48:707][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:707][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_E': Can't find file.
+[2020.06.01-20.37.48:707][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:707][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_F': Can't find file.
+[2020.06.01-20.37.48:984][  0]LogMaterial: Display: Missing cached shader map for material helipad_Mat, compiling. 
+[2020.06.01-20.37.48:984][  0]LogMaterial: Warning: E:\Documents\Unreal Projects\DroneScheduler\Content\Objects\Helipad\helipad_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.01-20.37.48:985][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.01-20.37.49:042][  0]LogAIModule: Creating AISystem for world TowerMap
+[2020.06.01-20.37.49:048][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:048][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:048][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:048][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:049][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:049][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:049][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:049][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:049][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:049][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:049][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:049][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:050][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:050][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:051][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:051][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:051][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:051][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:052][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:052][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:053][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:053][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:053][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:053][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:053][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:053][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:055][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:055][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:055][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:055][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:056][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:056][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:057][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:057][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:057][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:057][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:058][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:058][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:059][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:059][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:059][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:059][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:060][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:060][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:061][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:061][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:061][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.01-20.37.49:061][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.01-20.37.49:062][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.01-20.37.49:099][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.06.01-20.37.49:099][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.01-20.37.49:099][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2020.06.01-20.37.49:099][  0]LogFileHelpers: Loading map 'TowerMap' took 0.727
+[2020.06.01-20.37.49:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.01-20.37.49:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.01-20.37.49:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.01-20.37.49:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.01-20.37.49:273][  0]LogCollectionManager: Loaded 0 collections in 0.001000 seconds
+[2020.06.01-20.37.49:277][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Saved/Collections/' took 0.00s
+[2020.06.01-20.37.49:277][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/Developers/Yushi/Collections/' took 0.00s
+[2020.06.01-20.37.49:277][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/Collections/' took 0.00s
+[2020.06.01-20.37.49:277][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2020.06.01-20.37.49:287][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2920 classes and 691 folders.
+[2020.06.01-20.37.49:292][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.01-20.37.49:326][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.01-20.37.49:333][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.01-20.37.49:394][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.01-20.37.49:396][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.01-20.37.49:401][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.01-20.37.49:435][  0]LogRenderer: Reallocating scene render targets to support 920x532 Format 10 NumSamples 1 (Frame:1).
+[2020.06.01-20.37.49:559][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.01-20.37.49:559][  0]LogLoad: (Engine Initialization) Total time: 8.19 seconds
+[2020.06.01-20.37.49:559][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.01-20.37.49:612][  0]LogAssetRegistry: Asset discovery search completed in 4.8467 seconds
+[2020.06.01-20.37.49:615][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.06.01-20.37.49:615][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2020.06.01-20.37.49:616][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.01-20.37.49:630][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-20.37.49:689][  1]LogRenderer: Reallocating scene render targets to support 920x548 Format 10 NumSamples 1 (Frame:3).
+[2020.06.01-20.37.49:690][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/' took 0.12s
+[2020.06.01-20.37.55:324][664]LogSlate: Window 'Message Log' being destroyed
+[2020.06.01-20.37.55:326][664]LogSlate: Window 'Message Log' being destroyed
+[2020.06.01-20.37.55:942][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-20.37.56:374][790]LogSlate: Window 'Plugins' being destroyed
+[2020.06.01-20.37.56:378][790]LogSlate: Window 'Plugins' being destroyed
+[2020.06.01-20.37.56:378][790]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.06.01-20.37.56:378][790]LogDirectoryWatcher: A directory notification for 'E:/Documents/Unreal Projects/DroneScheduler/Plugins/' was aborted.
+[2020.06.01-20.37.58:374][ 24]LogRenderer: Reallocating scene render targets to support 968x576 Format 10 NumSamples 1 (Frame:966).
+[2020.06.01-20.37.58:374][ 24]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.01-20.38.02:805][492]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-20.38.04:185][657]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.01-20.38.49:522][560]LogWindows: LaunchURL https://sites.google.com/a/thoughtfish.de/coalapluginunreal/
+[2020.06.01-20.38.51:254][571]LogSlate: Window 'Plugins' being destroyed
+[2020.06.01-20.38.51:256][571]LogSlate: Window 'Plugins' being destroyed
+[2020.06.01-20.38.51:256][571]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.06.01-20.38.51:257][571]LogDirectoryWatcher: A directory notification for 'E:/Documents/Unreal Projects/DroneScheduler/Plugins/' was aborted.
+[2020.06.01-20.39.00:398][ 38]LogSlate: Window 'New Level' being destroyed
+[2020.06.01-20.39.00:401][ 38]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.01-20.39.00:404][ 38]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.01-20.39.00:413][ 38]LightingResults: New page: Lighting Build
+[2020.06.01-20.39.00:413][ 38]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.06.01-20.39.00:414][ 38]LogWorld: UWorld::CleanupWorld for TowerMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-20.39.00:414][ 38]MapCheck: New page: Map Check
+[2020.06.01-20.39.00:415][ 38]LightingResults: New page: Lighting Build
+[2020.06.01-20.39.00:447][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.06.01-20.39.00:461][ 38]LogAIModule: Creating AISystem for world Untitled_1
+[2020.06.01-20.39.00:483][ 38]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.01-20.39.00:516][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.06.01-20.39.00:519][ 38]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.01-20.39.00:519][ 38]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2020.06.01-20.39.00:519][ 38]LogFileHelpers: Loading map 'Template_Default' took 0.119
+[2020.06.01-20.39.38:142][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-20.44.49:942][438]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8681FDAA-4F0B-CDD1-4D72-9C975075E42C}
+[2020.06.01-20.47.49:967][978]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A60791CD-4F56-8BE7-8F66-B3B0384672FA}
+[2020.06.01-20.49.11:161][125]Cmd: CLOSE_SLATE_MAINFRAME
+[2020.06.01-20.49.11:191][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.06.01-20.49.11:351][125]LogSlate: Window 'Plugins' being destroyed
+[2020.06.01-20.49.11:354][125]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.06.01-20.49.11:355][125]LogDirectoryWatcher: A directory notification for 'E:/Documents/Unreal Projects/DroneScheduler/Plugins/' was aborted.
+[2020.06.01-20.49.11:356][125]LogSlate: Window 'DroneScheduler - Unreal Editor' being destroyed
+[2020.06.01-20.49.11:715][126]Cmd: QUIT_EDITOR
+[2020.06.01-20.49.11:733][126]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.01-20.49.11:752][126]LogExit: Preparing to exit.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.06.01-20.49.12:525][126]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.01-20.49.12:533][126]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.06.01-20.49.12:541][126]LogExit: Editor shut down
+[2020.06.01-20.49.12:541][126]LogExit: Transaction tracking system shut down
+[2020.06.01-20.49.12:758][126]LogExit: Object subsystem successfully closed.
+[2020.06.01-20.49.12:774][126]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (682)
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module NewLevelDialog (680)
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (678)
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module SceneOutliner (676)
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module AddContentDialog (674)
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module WidgetCarousel (673)
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module EditorWidgets (670)
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module CollectionManager (668)
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module StatsViewer (666)
+[2020.06.01-20.49.12:786][126]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (664)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module FoliageEdit (662)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module LandscapeEditor (660)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MeshPaintMode (658)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (656)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module ActorPickerMode (654)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module GeometryMode (652)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module TextureAlignMode (650)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module BspMode (648)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (646)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (644)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module AutomationWorker (642)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module OculusMR (640)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (638)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (636)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (634)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module PlacementMode (633)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MaterialEditor (632)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (628)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (626)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (624)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (622)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (620)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module WebMMedia (618)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (616)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (614)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module SequenceRecorder (613)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (610)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (608)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (606)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (604)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (602)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (600)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (598)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (596)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (594)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (592)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (590)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module CharacterAI (588)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module SmartSnapping (586)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module SessionServices (584)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module MeshPaint (582)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module ViewportSnapping (580)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module ViewportInteraction (578)
+[2020.06.01-20.49.12:787][126]LogModuleManager: Shutting down and abandoning module ClothPainter (576)
+[2020.06.01-20.49.12:788][126]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (575)
+[2020.06.01-20.49.12:788][126]LogModuleManager: Shutting down and abandoning module LogVisualizer (572)
+[2020.06.01-20.49.12:788][126]LogModuleManager: Shutting down and abandoning module IntroTutorials (570)
+[2020.06.01-20.49.12:788][126]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (569)
+[2020.06.01-20.49.12:788][126]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (566)
+[2020.06.01-20.49.12:788][126]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (564)
+[2020.06.01-20.49.12:788][126]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (562)
+[2020.06.01-20.49.12:788][126]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (560)
+[2020.06.01-20.49.12:788][126]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (559)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (556)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (554)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (552)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (550)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (548)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module InputBindingEditor (546)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module MergeActors (544)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (542)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module LocalizationService (541)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module HardwareTargeting (538)
+[2020.06.01-20.49.13:281][126]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (536)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module UndoHistory (534)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module XmlParser (532)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module Blutility (530)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (528)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (527)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (524)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module SettingsEditor (522)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module ProjectLauncher (520)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module SessionFrontend (518)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module ProfilerClient (516)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module DeviceManager (514)
+[2020.06.01-20.49.13:282][126]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (513)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module AutomationController (510)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module AutomationWindow (508)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module Layers (506)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (504)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module DetailCustomizations (502)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module PackagesDialog (500)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (498)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module Persona (496)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (495)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module AnimGraph (493)
+[2020.06.01-20.49.13:326][126]LogModuleManager: Shutting down and abandoning module Kismet (490)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module KismetWidgets (489)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module GraphEditor (486)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module StructViewer (484)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module ClassViewer (482)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module Toolbox (480)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module DesktopPlatform (479)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module ModuleUI (476)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module MovieSceneTools (474)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module OutputLog (472)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module GammaUI (470)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module Documentation (468)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module LiveCoding (466)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module LevelSequence (464)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (462)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module MovieScene (460)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (458)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module LauncherPlatform (456)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module AnalyticsET (454)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module PortalServices (452)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module PortalRpc (450)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module MessagingRpc (448)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module AIModule (446)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module GameplayDebugger (445)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module AITestSuite (443)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module NavigationSystem (441)
+[2020.06.01-20.49.13:327][126]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (438)
+[2020.06.01-20.49.13:330][126]LogModuleManager: Shutting down and abandoning module ProfilerService (436)
+[2020.06.01-20.49.13:537][126]LogModuleManager: Shutting down and abandoning module TaskGraph (434)
+[2020.06.01-20.49.13:537][126]LogModuleManager: Shutting down and abandoning module PythonEditor (432)
+[2020.06.01-20.49.13:537][126]LogModuleManager: Shutting down and abandoning module PythonConsole (430)
+[2020.06.01-20.49.13:537][126]LogModuleManager: Shutting down and abandoning module PythonAutomation (428)
+[2020.06.01-20.49.13:537][126]LogModuleManager: Shutting down and abandoning module UnrealEnginePython (426)
+[2020.06.01-20.49.13:537][126]LogPython: Goodbye Python
+[2020.06.01-20.49.13:542][126]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2020.06.01-20.49.13:542][126]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (422)
+[2020.06.01-20.49.13:542][126]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (420)
+[2020.06.01-20.49.13:542][126]LogModuleManager: Shutting down and abandoning module OculusEditor (418)
+[2020.06.01-20.49.13:542][126]LogModuleManager: Shutting down and abandoning module OculusInput (416)
+[2020.06.01-20.49.13:542][126]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (414)
+[2020.06.01-20.49.13:542][126]LogModuleManager: Shutting down and abandoning module EditableMesh (412)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module AudioCapture (406)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (404)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (402)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module AppleImageUtils (400)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module AndroidPermission (398)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (396)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (394)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module MediaCompositing (392)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module ThoughtfishCoalaPlugin (388)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module GLTFImporter (348)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module MyProject (308)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module SignificanceManager (306)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (304)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (302)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (298)
+[2020.06.01-20.49.13:543][126]LogModuleManager: Shutting down and abandoning module ActorSequence (296)
+[2020.06.01-20.49.13:544][126]LogModuleManager: Shutting down and abandoning module UdpMessaging (294)
+[2020.06.01-20.49.13:645][126]LogModuleManager: Shutting down and abandoning module TcpMessaging (292)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (290)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (288)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (286)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (284)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module MagicLeapController (282)
+[2020.06.01-20.49.13:746][126]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module MagicLeapAR (280)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module AugmentedReality (279)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.06.01-20.49.13:746][126]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.06.01-20.49.13:747][126]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.06.01-20.49.13:747][126]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.06.01-20.49.13:747][126]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.06.01-20.49.13:747][126]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.06.01-20.49.13:748][126]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.06.01-20.49.13:748][126]LogModuleManager: Shutting down and abandoning module AnimationSharing (252)
+[2020.06.01-20.49.13:748][126]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (250)
+[2020.06.01-20.49.13:748][126]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.06.01-20.49.13:748][126]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (242)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (200)
+[2020.06.01-20.49.13:750][126]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module UnrealEd (196)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module MRMesh (194)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (192)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (190)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module XAudio2 (188)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module Networking (186)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module Core (184)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (177)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (164)
+[2020.06.01-20.49.13:751][126]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2020.06.01-20.49.13:764][126]LogDerivedDataCache: Shutdown
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2020.06.01-20.49.13:764][126]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.06.01-20.49.13:765][126]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2020.06.01-20.49.13:766][126]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.06.01-20.49.13:766][126]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.06.01-20.49.13:766][126]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2020.06.01-20.49.13:766][126]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (84)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (80)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (79)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.06.01-20.49.13:772][126]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.06.01-20.49.13:773][126]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.06.01-20.49.13:773][126]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.06.01-20.49.13:783][126]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.06.01-20.49.13:783][126]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.06.01-20.49.13:783][126]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B867A921F-4B3C-3940-E0ED-2681E8A24D0D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=6cc5f0e848fb5bec0d6551a102a4e0ef%7Cfe3dd1f880434720be12ab63a96a296e%7C19791d62-f9fd-45d0-92f0-2dae48356e31&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.06.01-20.49.13:792][126]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.06.01-20.49.13:793][126]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.01-20.49.13:795][126]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.01-20.49.13:796][126]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.01-20.49.13:796][126]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.01-20.49.13:796][126]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.01-20.49.13:796][126]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.01-20.49.13:796][126]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.01-20.49.13:796][126]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.01-20.49.13:796][126]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.01-20.49.13:797][126]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.01-20.49.13:797][126]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.01-20.49.13:797][126]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.01-20.49.13:797][126]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.01-20.49.13:797][126]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.01-20.49.13:797][126]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.01-20.49.13:797][126]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.01-20.49.13:797][126]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.01-20.49.13:797][126]LogD3D11RHI: Shutdown
+[2020.06.01-20.49.13:797][126]LogD3D11RHI: CleanupD3DDevice
+[2020.06.01-20.49.13:797][126]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.01-20.49.13:798][126]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.01-20.49.13:798][126]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.01-20.49.13:874][126]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.06.01-20.49.13:887][126]LogExit: Exiting.
+[2020.06.01-20.49.13:928][126]Log file closed, 06/01/20 15:49:13

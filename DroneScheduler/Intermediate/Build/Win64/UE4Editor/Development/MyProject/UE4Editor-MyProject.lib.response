@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\TextReader.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\TextReaderLibrary.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Location.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyActor.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Location.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyActor.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\TextReader.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\TextReaderLibrary.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Default.rc2.res"
+/OUT:"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyProject

@@ -1,0 +1,1323 @@
+﻿Log file open, 05/13/20 00:28:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DroneScheduler
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.068012
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=YushiHattori -epicuserid=fe3dd1f880434720be12ab63a96a296e -epiclocale=en
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.05.13-05.28.03:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.13-05.28.03:403][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.05.13-05.28.03:403][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.05.13-05.28.03:407][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.13-05.28.03:407][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.13-05.28.03:408][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.13-05.28.03:408][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.13-05.28.03:408][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.13-05.28.03:411][  0]LogHAL: Display: Platform has ~ 16 GB [17127096320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.13-05.28.03:411][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.13-05.28.03:411][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.13-05.28.03:411][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.13-05.28.03:412][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.05.13-05.28.03:412][  0]LogInit: Computer: DESKTOP-EQLCNCF
+[2020.05.13-05.28.03:412][  0]LogInit: User: Yushi
+[2020.05.13-05.28.03:412][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.13-05.28.03:412][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.13-05.28.03:413][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.05.13-05.28.03:413][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.13-05.28.03:413][  0]LogMemory: Process Physical Memory: 106.59 MB used, 106.60 MB peak
+[2020.05.13-05.28.03:413][  0]LogMemory: Process Virtual Memory: 110.74 MB used, 110.74 MB peak
+[2020.05.13-05.28.03:413][  0]LogMemory: Physical Memory: 6292.68 MB used,  10041.00 MB free, 16333.67 MB total
+[2020.05.13-05.28.03:413][  0]LogMemory: Virtual Memory: 4728.08 MB used,  134213000.00 MB free, 134217728.00 MB total
+[2020.05.13-05.28.03:415][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.13-05.28.03:436][  0]LogInit: Using OS detected language (en-US).
+[2020.05.13-05.28.03:436][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.13-05.28.03:436][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.13-05.28.03:599][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.13-05.28.03:645][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.13-05.28.03:645][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.13-05.28.09:105][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.05.13-05.28.09:105][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.13-05.28.09:177][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2020.05.13-05.28.09:177][  0]LogD3D11RHI:       11127/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.13-05.28.09:179][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.13-05.28.09:179][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.13-05.28.09:179][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.13-05.28.09:188][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.13-05.28.09:188][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.13-05.28.09:188][  0]LogWindows: EnumDisplayDevices:
+[2020.05.13-05.28.09:189][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2020.05.13-05.28.09:189][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2020.05.13-05.28.09:189][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.05.13-05.28.09:189][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.05.13-05.28.09:190][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.13-05.28.09:190][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2020.05.13-05.28.09:190][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.13-05.28.09:190][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.13-05.28.09:190][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2020.05.13-05.28.09:245][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.13-05.28.09:270][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.13-05.28.09:558][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.13-05.28.09:566][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.13-05.28.09:574][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.13-05.28.09:582][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.13-05.28.09:590][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.13-05.28.09:599][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.13-05.28.09:608][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.13-05.28.09:617][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.13-05.28.09:621][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.13-05.28.09:653][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.13-05.28.09:655][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.13-05.28.09:671][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.13-05.28.09:671][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.13-05.28.09:688][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.13-05.28.09:688][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.13-05.28.09:698][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.13-05.28.09:706][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.13-05.28.09:713][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.13-05.28.09:723][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.13-05.28.09:752][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.13-05.28.09:752][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.13-05.28.09:752][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.13-05.28.09:761][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.13-05.28.09:808][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (E:/Documents/Unreal Projects/DroneScheduler/Intermediate/Shaders/WorkingDirectory/20432/).
+[2020.05.13-05.28.09:808][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yushi/AppData/Local/Temp/UnrealShaderWorkingDir/22A051274487EB4B2FF6EB90342BF18B/'.
+[2020.05.13-05.28.09:809][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.13-05.28.09:810][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.13-05.28.09:810][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.13-05.28.10:469][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.13-05.28.10:517][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.05.13-05.28.10:517][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.05.13-05.28.10:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Documents/Unreal Projects/DroneScheduler/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.13-05.28.10:517][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.13-05.28.10:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Documents/Unreal Projects/DroneScheduler/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.13-05.28.10:517][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.13-05.28.10:535][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.13-05.28.10:535][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.13-05.28.10:535][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.13-05.28.10:537][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yushi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.13-05.28.10:537][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.13-05.28.10:537][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.13-05.28.10:558][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.13-05.28.10:561][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.13-05.28.10:562][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.13-05.28.10:613][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.05.13-05.28.10:883][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.13-05.28.11:029][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.13-05.28.11:029][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.13-05.28.11:029][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.13-05.28.11:029][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.13-05.28.11:029][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.13-05.28.11:038][  0]LogNetVersion: DroneScheduler 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2147798710)
+[2020.05.13-05.28.11:473][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.094585 seconds
+[2020.05.13-05.28.11:481][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.05.13-05.28.11:481][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.05.13-05.28.11:481][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.13-05.28.12:250][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.13-05.28.12:253][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.13-05.28.12:336][  0]SourceControl: Source control is disabled
+[2020.05.13-05.28.12:337][  0]SourceControl: Source control is disabled
+[2020.05.13-05.28.12:338][  0]SourceControl: Source control is disabled
+[2020.05.13-05.28.12:338][  0]SourceControl: Source control is disabled
+[2020.05.13-05.28.12:446][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.13-05.28.12:588][  0]LogOcInput: OculusInput pre-init called
+[2020.05.13-05.28.13:507][  0]LogPython: Python Scripts search path: E:/Documents/Unreal Projects/DroneScheduler/Content/Scripts
+[2020.05.13-05.28.13:507][  0]LogPython: Python Scripts search path: E:/Documents/Unreal Projects/DroneScheduler/Plugins/UnrealEnginePython
+[2020.05.13-05.28.13:507][  0]LogPython: Python VM initialized: 3.6.7 (v3.6.7:6ec5cf24b7, Oct 20 2018, 13:35:33) [MSC v.1900 64 bit (AMD64)]
+[2020.05.13-05.28.13:509][  0]LogPython: ue_site Python module not found
+[2020.05.13-05.28.13:756][  0]LogEngine: Initializing Engine...
+[2020.05.13-05.28.19:083][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.05.13-05.28.19:084][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.13-05.28.19:302][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.13-05.28.19:313][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.13-05.28.19:342][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.13-05.28.19:364][  0]LogInit: FAudioDevice initialized.
+[2020.05.13-05.28.19:364][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.13-05.28.19:457][  0]LogDerivedDataCache: Saved boot cache 0.09s 76MB C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.05.13-05.28.19:464][  0]LogInit: Texture streaming: Enabled
+[2020.05.13-05.28.19:479][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.13-05.28.19:479][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.13-05.28.19:524][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.13-05.28.19:605][  0]LogInit: Transaction tracking system initialized
+[2020.05.13-05.28.19:630][  0]BlueprintLog: New page: Editor Load
+[2020.05.13-05.28.19:697][  0]LocalizationService: Localization service is disabled
+[2020.05.13-05.28.19:951][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.13-05.28.19:951][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.13-05.28.20:143][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/' took 0.06s
+[2020.05.13-05.28.20:143][  0]SourceControl: Source control is disabled
+[2020.05.13-05.28.20:143][  0]Cmd: MAP LOAD FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.13-05.28.20:143][  0]LightingResults: New page: Lighting Build
+[2020.05.13-05.28.20:146][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-05.28.20:146][  0]MapCheck: New page: Map Check
+[2020.05.13-05.28.20:146][  0]LightingResults: New page: Lighting Build
+[2020.05.13-05.28.20:178][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.05.13-05.28.23:177][  0]LogBlueprint: Warning: [Compiler PersistentLevel.TowerMap] Node  Unknown  is not referencing a valid level actor
+[2020.05.13-05.28.24:155][  0]LogMaterial: Display: Missing cached shader map for material helipad_Mat, compiling. 
+[2020.05.13-05.28.24:156][  0]LogMaterial: Warning: E:\Documents\Unreal Projects\DroneScheduler\Content\Objects\Helipad\helipad_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.13-05.28.24:156][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.05.13-05.28.24:862][  0]LogAIModule: Creating AISystem for world TowerMap
+[2020.05.13-05.28.24:870][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.28.24:870][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.28.24:871][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.28.24:871][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.28.24:873][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.28.24:873][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.28.24:873][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.28.24:873][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.28.24:874][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.13-05.28.24:912][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.05.13-05.28.24:912][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.13-05.28.24:912][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2020.05.13-05.28.24:912][  0]LogFileHelpers: Loading map 'TowerMap' took 4.769
+[2020.05.13-05.28.25:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-05.28.25:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-05.28.25:058][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-05.28.25:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-05.28.25:074][  0]LogCollectionManager: Loaded 0 collections in 0.001008 seconds
+[2020.05.13-05.28.25:078][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Saved/Collections/' took 0.00s
+[2020.05.13-05.28.25:078][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/Developers/Yushi/Collections/' took 0.00s
+[2020.05.13-05.28.25:078][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/Collections/' took 0.00s
+[2020.05.13-05.28.25:078][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.05.13-05.28.25:087][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2888 classes and 693 folders.
+[2020.05.13-05.28.25:092][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.13-05.28.25:435][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.13-05.28.25:460][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.13-05.28.25:476][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.13-05.28.25:478][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.13-05.28.25:490][  0]LogSlate: Took 0.007142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.13-05.28.25:611][  0]LogRenderer: Reallocating scene render targets to support 1176x572 Format 10 NumSamples 1 (Frame:1).
+[2020.05.13-05.28.25:673][  0]LogSlate: Took 0.007000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.13-05.28.25:724][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.13-05.28.25:724][  0]LogLoad: (Engine Initialization) Total time: 24.37 seconds
+[2020.05.13-05.28.25:724][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.13-05.28.25:785][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.13-05.28.26:783][ 16]LogAssetRegistry: Asset discovery search completed in 16.1710 seconds
+[2020.05.13-05.28.26:787][ 16]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.05.13-05.28.26:788][ 16]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2020.05.13-05.28.26:845][ 17]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.13-05.28.36:501][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.13-05.28.40:087][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map)
+[2020.05.13-05.28.40:839][409]Cmd: SELECT NONE
+[2020.05.13-05.28.41:412][477]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.13-05.28.41:419][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerMap" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.13-05.28.41:457][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.05.13-05.28.41:475][477]LogBlueprint: Warning: [Compiler PersistentLevel.TowerMap] Node  Unknown  is not referencing a valid level actor
+[2020.05.13-05.28.41:601][477]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/TowerMapD8B8938F4C2B6DBB1ED732BBCA1743AF.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap'
+[2020.05.13-05.28.41:666][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerMap_BuiltData" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap_BuiltData.uasset" SILENT=true
+[2020.05.13-05.28.41:723][477]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/TowerMap_BuiltData2A76736D4CBE9E51BA782C93CDF130A9.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap_BuiltData.uasset'
+[2020.05.13-05.28.44:928][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.13-05.28.45:075][868]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VTOL/VTOL_BP.VTOL_BP
+[2020.05.13-05.28.45:381][868]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.13-05.28.46:326][868]LogSlate: Took 0.005381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.13-05.28.46:588][869]LogSlate: Took 0.005155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.13-05.28.49:070][140]LogAssetEditorManager: Opening Asset editor for World /Game/TowerMap.TowerMap
+[2020.05.13-05.28.49:109][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.05.13-05.28.49:111][140]Cmd: MAP LOAD FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.13-05.28.49:111][140]LightingResults: New page: Lighting Build
+[2020.05.13-05.28.49:111][140]LoadErrors: New page: Loading map: TowerMap.umap
+[2020.05.13-05.28.49:112][140]LogWorld: UWorld::CleanupWorld for TowerMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-05.28.49:112][140]MapCheck: New page: Map Check
+[2020.05.13-05.28.49:112][140]LightingResults: New page: Lighting Build
+[2020.05.13-05.28.49:155][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.05.13-05.28.49:162][140]LogBlueprint: Warning: [Compiler PersistentLevel.TowerMap] Node  Unknown  is not referencing a valid level actor
+[2020.05.13-05.28.49:171][140]LogAIModule: Creating AISystem for world TowerMap
+[2020.05.13-05.28.49:174][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.28.49:174][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.28.49:175][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.28.49:175][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.28.49:177][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.28.49:177][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.28.49:177][140]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.28.49:177][140]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.28.49:179][140]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.13-05.28.49:222][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.05.13-05.28.49:280][140]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.13-05.28.49:280][140]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2020.05.13-05.28.49:281][140]LogFileHelpers: Loading map 'TowerMap' took 0.171
+[2020.05.13-05.28.49:880][201]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MapBase.MapBase
+[2020.05.13-05.28.52:401][413]LogSlate: Window 'MapBase' being destroyed
+[2020.05.13-05.28.54:249][633]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Objects/ControlTower/ControlTowerBP2.ControlTowerBP2
+[2020.05.13-05.28.54:636][633]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.28.54:636][633]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.28.57:675][924]LogSlate: Took 0.007180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.05.13-05.29.38:719][700]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.29.38:776][700]LogBlueprint: Error: [Compiler VTOL_BP] In use pin  <Unnamed>  no longer exists on node  Check if Ready . Please refresh node or break links to remove pin.
+[2020.05.13-05.29.38:776][700]LogBlueprint: Error: [Compiler VTOL_BP] In use pin  Target  no longer exists on node  Check if Ready . Please refresh node or break links to remove pin.
+[2020.05.13-05.29.38:776][700]LogBlueprint: Error: [Compiler VTOL_BP] Could not find a function named "CheckIfReady" in 'MapBase_C'.
+Make sure 'MapBase_C' has been compiled for  Check if Ready
+[2020.05.13-05.29.38:834][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.38:834][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.38:835][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.38:836][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.38:836][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.38:836][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.38:837][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.38:838][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.38:839][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.38:839][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:062][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.05.13-05.29.39:069][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:069][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:071][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:071][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:071][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:071][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:073][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:073][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:074][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:074][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:075][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:076][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:077][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:077][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:092][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:092][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:093][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:094][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:094][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:094][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:095][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:095][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:096][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:096][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:098][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:098][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:099][700]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.29.39:100][700]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.29.39:478][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.29.39:529][737]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase7B504F774E49A0990EF55DA99C7FC162.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.30.03:658][546]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.30.03:898][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.05.13-05.30.03:906][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:906][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:907][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:908][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:908][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:908][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:909][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:909][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:910][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:910][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:912][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:912][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:913][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:913][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:932][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:932][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:934][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:934][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:934][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:934][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:936][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:936][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:937][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:937][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:938][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:938][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.30.03:940][546]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.30.03:940][546]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.31.24:328][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.31.24:373][ 18]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase18D98D8649D3F91FF9EC65A004DA8B58.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.31.25:721][178]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={41C954BB-4BD2-2FC9-7182-AD9DFB73AEE1}
+[2020.05.13-05.32.17:034][234]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.32.17:275][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.05.13-05.32.17:280][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:280][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:282][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:282][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:282][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:282][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:283][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:284][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:284][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:284][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:286][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:286][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:287][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:288][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:306][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:306][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:307][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:307][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:308][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:308][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:309][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:309][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:310][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:310][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:312][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:312][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:313][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.32.17:314][234]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.32.17:682][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.32.17:771][273]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase5108414145E8D45412B4E4B1D92B2225.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.33.15:809][139]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.33.16:048][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.05.13-05.33.16:053][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:054][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:055][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:055][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:055][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:056][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:057][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:057][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:058][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:058][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:060][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:060][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:061][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:061][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:079][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:079][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:081][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:081][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:081][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:081][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:083][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:083][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:084][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:084][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:085][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:085][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:087][139]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.33.16:087][139]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.33.16:449][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.33.16:503][177]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase63255C9E45698B685C1337A12CDEC98D.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.33.16:777][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.33.16:824][206]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase1F03BE5447764B054892EC808A818725.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.35.09:917][565]BlueprintLog: New page: Compile VTOL_BP
+[2020.05.13-05.35.10:202][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.05.13-05.35.10:232][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:232][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:234][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:234][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:234][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:234][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:236][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:236][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:236][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:236][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:238][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:238][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:240][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:240][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:257][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:257][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:259][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:259][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:259][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:260][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:261][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:261][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:262][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:262][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:264][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:264][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:265][565]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.35.10:266][565]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.35.10:617][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VTOL/VTOL_BP" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset" SILENT=true
+[2020.05.13-05.35.10:753][592]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/VTOL_BP29A8EE95432A37366D6592B03DB41631.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset'
+[2020.05.13-05.37.31:709][ 15]LogEditorTransaction: Undo Move Node
+[2020.05.13-05.37.32:172][ 46]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.05.13-05.37.32:986][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VTOL/VTOL_BP" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset" SILENT=true
+[2020.05.13-05.37.33:126][125]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/VTOL_BPBB94F8194B602987095792AE5F20AEFD.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset'
+[2020.05.13-05.37.35:950][456]BlueprintLog: New page: Compile VTOL_BP
+[2020.05.13-05.37.36:232][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.05.13-05.37.36:262][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:262][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:264][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:264][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:264][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:264][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:266][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:266][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:267][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:267][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:268][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:268][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:270][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:270][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:288][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:288][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:290][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:290][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:290][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:290][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:292][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:292][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:293][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:293][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:294][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:295][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:296][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.37.36:296][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.37.36:662][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VTOL/VTOL_BP" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset" SILENT=true
+[2020.05.13-05.37.36:792][484]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/VTOL_BP115BD82D4E635BB5E6A120990BCE9AEE.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset'
+[2020.05.13-05.38.25:719][323]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CB6AC764-448D-D609-DA0B-4999AD51AA9D}
+[2020.05.13-05.39.04:525][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerMap" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.13-05.39.04:574][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.05.13-05.39.04:594][936]LogBlueprint: Warning: [Compiler PersistentLevel.TowerMap] Node  Unknown  is not referencing a valid level actor
+[2020.05.13-05.39.04:800][936]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/TowerMapFD5AFFA84401521FCDA87DA0CE634537.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap'
+[2020.05.13-05.39.04:861][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerMap_BuiltData" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap_BuiltData.uasset" SILENT=true
+[2020.05.13-05.39.04:941][936]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/TowerMap_BuiltData42B88CD24B14D7EE11EED4AE35F86464.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap_BuiltData.uasset'
+[2020.05.13-05.39.06:772][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VTOL/VTOL_BP" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset" SILENT=true
+[2020.05.13-05.39.06:895][149]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/VTOL_BPD77D32204DE49B41A5B42EBE45CF5FFA.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset'
+[2020.05.13-05.39.29:568][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VTOL/VTOL_BP" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset" SILENT=true
+[2020.05.13-05.39.29:692][702]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/VTOL_BP23BB0827486AE550231F8D832E0B08DD.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset'
+[2020.05.13-05.39.45:744][ 58]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.13-05.39.52:696][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.39.52:696][597]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.39.52:697][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.39.52:697][597]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.39.52:698][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.39.52:698][597]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.39.52:699][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.39.52:699][597]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.39.52:700][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.39.52:700][597]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.39.52:702][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.39.52:702][597]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.39.52:703][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.39.52:703][597]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:517][995]LogEditorTransaction: Undo Move Node
+[2020.05.13-05.40.09:519][995]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:519][995]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:520][995]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:521][995]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:521][995]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:521][995]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:522][995]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:522][995]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:523][995]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:523][995]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:525][995]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:525][995]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:527][995]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:527][995]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:894][ 14]LogEditorTransaction: Undo Create Pin Link
+[2020.05.13-05.40.09:896][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:897][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:898][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:898][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:898][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:898][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:900][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:900][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:901][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:901][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:902][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:903][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.09:904][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.09:904][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:306][ 39]LogEditorTransaction: Undo Move Nodes
+[2020.05.13-05.40.10:310][ 39]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:310][ 39]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:311][ 39]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:311][ 39]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:312][ 39]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:312][ 39]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:313][ 39]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:313][ 39]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:314][ 39]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:314][ 39]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:316][ 39]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:316][ 39]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:317][ 39]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:317][ 39]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:701][ 63]LogEditorTransaction: Undo Move Nodes
+[2020.05.13-05.40.10:704][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:704][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:705][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:706][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:706][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:706][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:707][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:707][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:708][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:708][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:710][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:710][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.10:711][ 63]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.10:712][ 63]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.11:166][ 93]LogEditorTransaction: Undo Paste clipboard contents
+[2020.05.13-05.40.11:169][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.11:169][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.11:171][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.11:171][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.11:171][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.11:171][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.11:173][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.11:173][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.11:174][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.11:174][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.11:175][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.11:175][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.11:177][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.11:177][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.12:758][217]LogEditorTransaction: Undo Move Node
+[2020.05.13-05.40.13:979][299]LogEditorTransaction: Redo Move Node
+[2020.05.13-05.40.17:494][575]BlueprintLog: New page: Compile ControlTowerBP2
+[2020.05.13-05.40.17:546][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:546][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:548][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:548][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:548][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:548][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:549][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:549][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:551][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:551][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:786][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.13-05.40.17:795][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:795][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:797][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:797][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:797][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:797][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:799][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:799][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:800][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:800][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:801][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:801][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:803][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:803][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:831][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:831][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:833][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:833][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:833][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:833][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:834][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:834][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:835][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:835][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:837][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:837][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.17:838][575]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.40.17:838][575]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.40.18:178][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/ControlTower/ControlTowerBP2" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset" SILENT=true
+[2020.05.13-05.40.18:277][586]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/ControlTowerBP230F78910480472AD521B9DB95203714B.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/ControlTower/ControlTowerBP2.uasset'
+[2020.05.13-05.40.35:133][ 28]LogEditorTransaction: Undo Move Nodes
+[2020.05.13-05.41.27:188][473]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.41.27:462][473]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.05.13-05.41.27:472][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:472][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:473][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:473][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:474][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:474][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:475][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:475][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:476][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:476][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:478][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:478][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:479][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:479][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:506][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:506][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:507][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:507][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:508][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:508][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:509][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:509][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:510][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:510][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:512][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:512][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.41.27:513][473]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.41.27:513][473]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:149][855]BlueprintLog: New page: Compile VTOL_BP
+[2020.05.13-05.48.52:424][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.13-05.48.52:456][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:457][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:458][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:458][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:458][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:459][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:460][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:460][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:461][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:461][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:463][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:463][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:464][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:465][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:482][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:483][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:484][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:484][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:484][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:484][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:486][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:486][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:487][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:487][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:489][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:489][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.52:491][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.48.52:491][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.48.59:501][543]LogEditorTransaction: Undo Delete current selection
+[2020.05.13-05.48.59:563][544]LogEditorTransaction: Undo Delete current selection
+[2020.05.13-05.49.06:869][271]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.49.07:132][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.05.13-05.49.07:141][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:141][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:143][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:143][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:143][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:143][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:145][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:145][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:146][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:146][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:147][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:147][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:149][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:149][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:172][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:172][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:174][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:174][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:174][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:174][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:176][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:176][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:176][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:177][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:178][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:179][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:180][271]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.49.07:180][271]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.49.07:549][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.49.07:606][292]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBaseCE3E71874761D3F8C89CA0A9B49921DE.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.49.51:937][415]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.05.13-05.49.51:938][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerMap" FILE="E:/Documents/Unreal Projects/DroneScheduler/Saved/Autosaves/Game/TowerMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.13-05.49.51:956][415]LogBlueprint: Warning: [Compiler PersistentLevel.TowerMap] Node  Unknown  is not referencing a valid level actor
+[2020.05.13-05.49.52:170][415]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/TowerMap_Auto1E5C57B5C42DB6189E1732F909F442FEA.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Saved/Autosaves/Game/TowerMap_Auto1.umap'
+[2020.05.13-05.49.52:173][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TowerMap' took 0.276
+[2020.05.13-05.49.52:173][415]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.276
+[2020.05.13-05.49.52:174][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MapBase] ([1] browsable assets)...
+[2020.05.13-05.49.52:174][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapBase]
+[2020.05.13-05.49.52:174][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Saved/Autosaves/Game/MapBase_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.13-05.49.52:222][415]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase_Auto1CC98D25B4E3288FA41E86C809CEB41F8.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Saved/Autosaves/Game/MapBase_Auto1.uasset'
+[2020.05.13-05.49.52:240][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VTOL/VTOL_BP] ([1] browsable assets)...
+[2020.05.13-05.49.52:249][415]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VTOL/VTOL_BP.VTOL_BP]
+[2020.05.13-05.49.52:249][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/VTOL/VTOL_BP]
+[2020.05.13-05.49.52:249][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VTOL/VTOL_BP" FILE="E:/Documents/Unreal Projects/DroneScheduler/Saved/Autosaves/Game/VTOL/VTOL_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.13-05.49.52:387][415]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/VTOL_BP_Auto18D4341764432FBAB9DB1B2BD024D8916.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Saved/Autosaves/Game/VTOL/VTOL_BP_Auto1.uasset'
+[2020.05.13-05.49.52:414][415]LogFileHelpers: Auto-saving content packages took 0.241
+[2020.05.13-05.50.08:081][ 56]BlueprintLog: New page: Compile VTOL_BP
+[2020.05.13-05.50.08:179][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:179][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:180][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:181][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:181][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:181][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:182][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:182][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:184][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:184][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:412][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.13-05.50.08:422][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:423][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:424][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:424][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:424][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:425][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:426][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:426][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:427][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:427][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:428][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:429][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:430][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:430][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:450][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:450][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:452][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:452][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:452][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:452][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:454][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:454][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:455][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:455][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:456][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:456][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:458][ 56]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.08:458][ 56]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.08:877][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VTOL/VTOL_BP" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset" SILENT=true
+[2020.05.13-05.50.09:005][ 82]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/VTOL_BPCD9DD6744A9817EBFB0436B95F704D70.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset'
+[2020.05.13-05.50.21:151][394]LogEditorTransaction: Undo Delete current selection
+[2020.05.13-05.50.39:481][377]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.50.39:745][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.13-05.50.39:755][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:755][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:757][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:757][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:757][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:757][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:758][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:758][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:759][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:759][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:761][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:761][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:762][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:762][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:785][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:785][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:786][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:786][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:787][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:787][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:788][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:789][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:789][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:789][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:791][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:791][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.50.39:793][377]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.50.39:793][377]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.19:702][468]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.53.19:973][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.05.13-05.53.19:983][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.19:983][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.19:985][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.19:986][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.19:986][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.19:986][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.19:987][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.19:988][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.19:988][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.19:989][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.19:990][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.19:990][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.19:992][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.19:992][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.20:016][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.20:016][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.20:017][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.20:017][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.20:018][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.20:018][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.20:019][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.20:019][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.20:020][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.20:020][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.20:022][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.20:022][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.20:024][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.20:024][468]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.20:934][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.53.20:987][554]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase11C9C03342DCA7B3B5740083D4249DB0.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.53.23:152][789]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.53.23:408][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.05.13-05.53.23:416][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:417][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:418][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:418][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:418][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:418][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:420][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:420][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:421][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:421][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:422][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:422][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:424][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:424][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:447][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:447][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:449][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:449][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:449][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:449][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:450][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:450][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:451][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:451][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:453][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:453][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:454][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.53.23:454][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.53.23:725][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.53.23:774][804]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase4C76562442F3B244021AC6B21D75B997.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.53.46:250][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.53.46:298][ 83]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase60D4D6834C76E60634DAFEA5CDFE88F4.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.54.59:848][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.54.59:929][503]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBaseB52661D445F345F09DE8BC8D7D13FE22.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.55.00:699][587]BlueprintLog: New page: Compile MapBase
+[2020.05.13-05.55.00:961][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.05.13-05.55.00:971][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.00:971][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.00:973][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.00:973][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.00:973][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.00:973][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.00:974][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.00:975][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.00:975][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.00:975][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.00:977][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.00:977][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.00:978][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.00:979][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.01:002][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.01:002][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.01:003][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.01:003][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.01:004][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.01:004][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.01:005][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.01:005][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.01:006][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.01:006][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.01:008][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.01:008][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.01:009][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.55.01:009][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.55.01:347][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.55.01:401][610]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase54235833499C62CBAA25D4947284DACB.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.55.22:236][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.55.22:287][978]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBase1AD040014B607918A068A6A592C239E5.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.55.26:992][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBase" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset" SILENT=true
+[2020.05.13-05.55.27:043][506]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/MapBaseD5BB00194A06E6CA3A2304AF7349BB93.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase.uasset'
+[2020.05.13-05.55.45:156][538]LogEditorTransaction: Undo Delete current selection
+[2020.05.13-05.58.02:366][841]LogEditorTransaction: Undo Delete current selection
+[2020.05.13-05.58.24:398][ 31]BlueprintLog: New page: Compile VTOL_BP
+[2020.05.13-05.58.24:695][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.05.13-05.58.24:728][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:728][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:729][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:730][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:730][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:730][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:731][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:731][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:732][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:732][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:734][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:734][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:735][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:735][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:753][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:753][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:755][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:755][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:755][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:755][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:757][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:757][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:758][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:758][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:759][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:759][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.24:761][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.05.13-05.58.24:761][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.05.13-05.58.25:111][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VTOL/VTOL_BP" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset" SILENT=true
+[2020.05.13-05.58.25:250][ 50]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/VTOL_BP9337DDFD443305B32242EAAB8CB4B315.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/VTOL/VTOL_BP.uasset'
+[2020.05.13-05.58.34:534][978]LogUObjectBase: Warning: Object is not registered
+[2020.05.13-05.58.34:535][978]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.13-05.58.34:642][978]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.106 s
+[2020.05.13-05.58.34:642][978]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.13-05.58.34:642][978]LogOutputDevice: Error: 
+[2020.05.13-05.58.34:642][978]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.05.13-05.58.34:642][978]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.05.13-05.58.34:642][978]LogOutputDevice: Error: Stack: 
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe32675279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe31e97fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe31ea622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe310a6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe26664dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe2661e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe3e80d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe3e9fc533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe3e85922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe3e835738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.13-05.58.34:643][978]LogOutputDevice: Error: [Callstack] 0x00007ffe3e829a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ffe7bc54c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ffe7bc426df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ffe7bc57340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ffe7bc3edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ffe8f9274d6 USER32.dll!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ffe8f926ff2 USER32.dll!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ffe7bc588e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ff779ad6980 UE4Editor.exe!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ff779aea91c UE4Editor.exe!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ff779aea9fa UE4Editor.exe!UnknownFunction []
+[2020.05.13-05.58.34:644][978]LogOutputDevice: Error: [Callstack] 0x00007ff779afb92c UE4Editor.exe!UnknownFunction []
+[2020.05.13-05.58.34:645][978]LogOutputDevice: Error: [Callstack] 0x00007ff779afe60e UE4Editor.exe!UnknownFunction []
+[2020.05.13-05.58.34:645][978]LogOutputDevice: Error: [Callstack] 0x00007ffe8f867974 KERNEL32.DLL!UnknownFunction []
+[2020.05.13-05.58.34:645][978]LogOutputDevice: Error: [Callstack] 0x00007ffe900ba271 ntdll.dll!UnknownFunction []
+[2020.05.13-05.58.34:645][978]LogOutputDevice: Error: 
+[2020.05.13-05.58.34:708][978]LogStats:                SubmitErrorReport -  0.000 s

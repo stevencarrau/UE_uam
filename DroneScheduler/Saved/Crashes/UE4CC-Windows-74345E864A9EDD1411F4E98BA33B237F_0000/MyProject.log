@@ -1,0 +1,1286 @@
+﻿Log file open, 04/14/20 23:52:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.110970
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=YushiHattori -epicuserid=fe3dd1f880434720be12ab63a96a296e -epiclocale=en
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Engine.ini]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Engine.ini]
+[2020.04.15-04.52.36:160][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Engine.ini]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Engine.ini]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.15-04.52.36:160][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Engine.ini]
+[2020.04.15-04.52.36:160][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Engine.ini]
+[2020.04.15-04.52.36:164][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.15-04.52.36:165][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:165][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.15-04.52.36:166][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.15-04.52.36:166][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.15-04.52.36:166][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.15-04.52.36:174][  0]LogHAL: Display: Platform has ~ 16 GB [17127096320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.15-04.52.36:174][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.15-04.52.36:174][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.15-04.52.36:174][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.15-04.52.36:175][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documents/Unreal Projects/MyProject 4.23/Saved/Config/Windows/Engine.ini]
+[2020.04.15-04.52.36:175][  0]LogInit: Computer: DESKTOP-EQLCNCF
+[2020.04.15-04.52.36:175][  0]LogInit: User: Yushi
+[2020.04.15-04.52.36:175][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.15-04.52.36:175][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.15-04.52.36:175][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.04.15-04.52.36:175][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.15-04.52.36:175][  0]LogMemory: Process Physical Memory: 105.09 MB used, 105.09 MB peak
+[2020.04.15-04.52.36:175][  0]LogMemory: Process Virtual Memory: 105.43 MB used, 105.43 MB peak
+[2020.04.15-04.52.36:175][  0]LogMemory: Physical Memory: 6329.14 MB used,  10004.53 MB free, 16333.67 MB total
+[2020.04.15-04.52.36:175][  0]LogMemory: Virtual Memory: 4723.01 MB used,  134213008.00 MB free, 134217728.00 MB total
+[2020.04.15-04.52.36:328][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.15-04.52.36:350][  0]LogInit: Using OS detected language (en-US).
+[2020.04.15-04.52.36:350][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.15-04.52.36:351][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.15-04.52.36:572][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.15-04.52.36:658][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.15-04.52.36:658][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.15-04.52.45:212][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.04.15-04.52.45:212][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.15-04.52.45:281][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2020.04.15-04.52.45:281][  0]LogD3D11RHI:       11127/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.15-04.52.45:283][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.15-04.52.45:283][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.15-04.52.45:283][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.15-04.52.45:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.15-04.52.45:292][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.15-04.52.45:292][  0]LogWindows: EnumDisplayDevices:
+[2020.04.15-04.52.45:292][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2020.04.15-04.52.45:292][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2020.04.15-04.52.45:293][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.04.15-04.52.45:293][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.04.15-04.52.45:293][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.15-04.52.45:293][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2020.04.15-04.52.45:293][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.04.15-04.52.45:293][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.04.15-04.52.45:293][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2020.04.15-04.52.45:351][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.15-04.52.45:382][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.15-04.52.45:851][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.15-04.52.45:859][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.15-04.52.45:869][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.15-04.52.45:878][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.15-04.52.45:891][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.15-04.52.45:899][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.15-04.52.45:907][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.15-04.52.45:916][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.15-04.52.45:921][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.15-04.52.45:960][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.15-04.52.45:962][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.15-04.52.45:986][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.15-04.52.45:986][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.15-04.52.46:000][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.15-04.52.46:000][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.15-04.52.46:007][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.15-04.52.46:014][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.15-04.52.46:022][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.15-04.52.46:038][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.15-04.52.46:067][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.15-04.52.46:067][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.15-04.52.46:067][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.15-04.52.46:076][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.15-04.52.46:120][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (E:/Documents/Unreal Projects/MyProject 4.23/Intermediate/Shaders/WorkingDirectory/13588/).
+[2020.04.15-04.52.46:120][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yushi/AppData/Local/Temp/UnrealShaderWorkingDir/54754CB44DE0D23BECCA0A8C663020EC/'.
+[2020.04.15-04.52.46:122][  0]LogXGEController: Cleaning working directory: C:/Users/Yushi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.15-04.52.46:123][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.15-04.52.46:123][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.15-04.52.46:123][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.15-04.52.48:361][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.15-04.52.48:408][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.15-04.52.48:408][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.15-04.52.48:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Documents/Unreal Projects/MyProject 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.15-04.52.48:408][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.15-04.52.48:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Documents/Unreal Projects/MyProject 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.15-04.52.48:408][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.15-04.52.48:427][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.15-04.52.48:427][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.15-04.52.48:427][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.15-04.52.48:429][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yushi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.15-04.52.48:429][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.15-04.52.48:429][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.15-04.52.48:450][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.15-04.52.48:453][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.15-04.52.48:454][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.15-04.52.48:527][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.04.15-04.52.48:816][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.15-04.52.49:055][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.15-04.52.49:055][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.15-04.52.49:055][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.15-04.52.49:055][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.15-04.52.49:055][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.15-04.52.49:088][  0]LogNetVersion: MyProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2896792207)
+[2020.04.15-04.52.50:135][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.064624 seconds
+[2020.04.15-04.52.50:144][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.04.15-04.52.50:144][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.04.15-04.52.50:144][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.15-04.52.52:552][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.15-04.52.52:556][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.15-04.52.52:625][  0]SourceControl: Source control is disabled
+[2020.04.15-04.52.52:625][  0]SourceControl: Source control is disabled
+[2020.04.15-04.52.52:627][  0]SourceControl: Source control is disabled
+[2020.04.15-04.52.52:628][  0]SourceControl: Source control is disabled
+[2020.04.15-04.52.52:736][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.15-04.52.52:904][  0]LogOcInput: OculusInput pre-init called
+[2020.04.15-04.52.53:585][  0]LogEngine: Initializing Engine...
+[2020.04.15-04.52.53:637][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.04.15-04.52.53:638][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.15-04.52.54:031][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.15-04.52.54:042][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.15-04.52.54:063][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.15-04.52.54:109][  0]LogInit: FAudioDevice initialized.
+[2020.04.15-04.52.54:109][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.15-04.52.54:202][  0]LogDerivedDataCache: Saved boot cache 0.09s 76MB C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.15-04.52.54:207][  0]LogInit: Texture streaming: Enabled
+[2020.04.15-04.52.54:282][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.15-04.52.54:283][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={1B5C3213-4D57-A3CD-3B47-61A5438FBE52}
+[2020.04.15-04.52.54:283][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={2B605AB6-4145-0E53-DDD1-1D83E202B9D4}
+[2020.04.15-04.52.54:283][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.15-04.52.54:283][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.15-04.52.54:352][  0]LogInit: Transaction tracking system initialized
+[2020.04.15-04.52.54:377][  0]BlueprintLog: New page: Editor Load
+[2020.04.15-04.52.54:438][  0]LocalizationService: Localization service is disabled
+[2020.04.15-04.52.54:515][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.04.15-04.52.54:516][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.04.15-04.52.54:516][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.04.15-04.52.54:925][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.15-04.52.54:925][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.15-04.52.55:214][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/MyProject 4.23/Content/' took 0.01s
+[2020.04.15-04.52.55:214][  0]SourceControl: Source control is disabled
+[2020.04.15-04.52.55:302][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.15-04.53.07:446][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.04.15-04.53.07:446][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.15-04.53.07:448][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.15-04.53.07:457][  0]Cmd: MAP LOAD FILE="E:/Documents/Unreal Projects/MyProject 4.23/Content/GridWorld2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.15-04.53.07:457][  0]LightingResults: New page: Lighting Build
+[2020.04.15-04.53.07:459][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.15-04.53.07:459][  0]MapCheck: New page: Map Check
+[2020.04.15-04.53.07:459][  0]LightingResults: New page: Lighting Build
+[2020.04.15-04.53.07:492][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.04.15-04.53.09:255][  0]LogAIModule: Creating AISystem for world GridWorld2
+[2020.04.15-04.53.09:265][  0]LogMaterial: Display: Material /Game/Objects/Grid/Materials/DxI0X41X0AUwQSM_Mat.DxI0X41X0AUwQSM_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.04.15-04.53.09:269][  0]LogMaterial: Display: Missing cached shader map for material DxI0X41X0AUwQSM_Mat, compiling. 
+[2020.04.15-04.53.09:352][  0]MapCheck: Warning: DxI0X41X0AUwQSM_Mat Material /Game/Objects/Grid/Materials/DxI0X41X0AUwQSM_Mat.DxI0X41X0AUwQSM_Mat was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.04.15-04.53.09:353][  0]LogMaterial: Display: Material /Game/Objects/Grid/Materials/DxI0X41X0AUwQSM_Mat1_2.DxI0X41X0AUwQSM_Mat1_2 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.15-04.53.09:357][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2020.04.15-04.53.09:357][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2020.04.15-04.53.09:357][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2020.04.15-04.53.09:357][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.04.15-04.53.09:357][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.04.15-04.53.09:357][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.04.15-04.53.09:357][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.04.15-04.53.09:357][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.04.15-04.53.09:357][  0]LogMaterial: Display: Missing cached shader map for material DxI0X41X0AUwQSM_Mat1_2, compiling. 
+[2020.04.15-04.53.09:376][  0]MapCheck: Warning: DxI0X41X0AUwQSM_Mat1_2 Material /Game/Objects/Grid/Materials/DxI0X41X0AUwQSM_Mat1_2.DxI0X41X0AUwQSM_Mat1_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.04.15-04.53.09:376][  0]LogMaterial: Display: Material /Game/Objects/Grid/Materials/DxI0X41X0AUwQSM_Mat1.DxI0X41X0AUwQSM_Mat1 needed to have new flag set bUsedWithStaticLighting !
+[2020.04.15-04.53.09:380][  0]LogMaterial: Display: Missing cached shader map for material DxI0X41X0AUwQSM_Mat1, compiling. 
+[2020.04.15-04.53.09:401][  0]MapCheck: Warning: DxI0X41X0AUwQSM_Mat1 Material /Game/Objects/Grid/Materials/DxI0X41X0AUwQSM_Mat1.DxI0X41X0AUwQSM_Mat1 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.04.15-04.53.09:416][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.15-04.53.09:449][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 62
+[2020.04.15-04.53.09:454][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.04.15-04.53.09:455][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.15-04.53.09:455][  0]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0.118ms to complete.
+[2020.04.15-04.53.09:467][  0]LogFileHelpers: Loading map 'GridWorld2' took 2.010
+[2020.04.15-04.53.09:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.15-04.53.09:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.15-04.53.09:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.15-04.53.09:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.15-04.53.09:614][  0]LogCollectionManager: Loaded 0 collections in 0.001631 seconds
+[2020.04.15-04.53.09:622][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/MyProject 4.23/Saved/Collections/' took 0.00s
+[2020.04.15-04.53.09:622][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/MyProject 4.23/Content/Developers/Yushi/Collections/' took 0.00s
+[2020.04.15-04.53.09:622][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/MyProject 4.23/Content/Collections/' took 0.00s
+[2020.04.15-04.53.09:622][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.04.15-04.53.09:635][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2867 classes and 683 folders.
+[2020.04.15-04.53.09:641][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.15-04.53.10:124][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.15-04.53.10:134][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.04.15-04.53.10:258][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.15-04.53.10:270][  0]LogSlate: Took 0.008640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.15-04.53.10:415][  0]LogRenderer: Reallocating scene render targets to support 1076x604 Format 10 NumSamples 1 (Frame:1).
+[2020.04.15-04.53.10:536][  0]LogSlate: Took 0.009334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.15-04.53.10:594][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.15-04.53.10:594][  0]LogLoad: (Engine Initialization) Total time: 37.44 seconds
+[2020.04.15-04.53.10:594][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.15-04.53.10:663][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.15-04.53.10:926][  4]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 55
+[2020.04.15-04.53.10:926][  4]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2020.04.15-04.53.11:159][  8]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2020.04.15-04.53.11:215][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2020.04.15-04.53.11:458][ 13]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2020.04.15-04.53.12:160][ 17]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2020.04.15-04.53.12:160][ 17]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.04.15-04.53.12:163][ 17]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.04.15-04.53.12:222][ 17]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2020.04.15-04.53.12:222][ 17]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.15-04.53.12:542][ 22]LogAssetRegistry: Asset discovery search completed in 24.0162 seconds
+[2020.04.15-04.53.12:549][ 22]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.04.15-04.53.12:592][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.15-04.53.12:975][ 60]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.04.15-04.53.13:163][ 81]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.04.15-04.53.13:190][ 84]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.04.15-04.53.13:845][154]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.04.15-04.53.13:931][163]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.04.15-04.53.14:132][184]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.15-04.53.14:177][185]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.04.15-04.53.14:440][206]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.04.15-04.53.14:625][225]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.04.15-04.53.14:655][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.04.15-04.53.14:655][227]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.04.15-04.53.14:692][229]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.04.15-04.53.15:505][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.04.15-04.53.15:506][313]Cmd: MAP LOAD FILE="E:/Documents/Unreal Projects/MyProject 4.23/Content/TowerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.15-04.53.15:520][313]LightingResults: New page: Lighting Build
+[2020.04.15-04.53.15:521][313]LoadErrors: New page: Loading map: TowerMap.umap
+[2020.04.15-04.53.15:521][313]LogWorld: UWorld::CleanupWorld for GridWorld2, bSessionEnded=true, bCleanupResources=true
+[2020.04.15-04.53.15:522][313]MapCheck: New page: Map Check
+[2020.04.15-04.53.15:522][313]LightingResults: New page: Lighting Build
+[2020.04.15-04.53.15:554][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.04.15-04.53.15:810][313]LogBlueprint: Warning: [Compiler PersistentLevel.TowerMap] Node  Unknown  is not referencing a valid level actor
+[2020.04.15-04.53.15:883][313]LogMaterial: Display: Missing cached shader map for material Material__25, compiling. 
+[2020.04.15-04.53.15:883][313]LogMaterial: Warning: E:\Documents\Unreal Projects\MyProject 4.23\Content\Objects\Helipad\Material__25.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.15-04.53.15:883][313]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.15-04.53.16:069][313]LogAIModule: Creating AISystem for world TowerMap
+[2020.04.15-04.53.16:074][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.16:074][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.16:074][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.16:082][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.16:082][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.16:082][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.16:083][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.16:083][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.16:083][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.16:084][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.16:084][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.16:084][313]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.16:155][313]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.15-04.53.16:190][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.04.15-04.53.16:235][313]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.15-04.53.16:235][313]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2020.04.15-04.53.16:235][313]LogFileHelpers: Loading map 'TowerMap' took 0.730
+[2020.04.15-04.53.16:236][313]LogSlate: Window 'Open Level' being destroyed
+[2020.04.15-04.53.16:776][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.15-04.53.18:141][536]LogEditorViewport: Clicking on Actor (LMB): ControlTowerBP_C (CT_1)
+[2020.04.15-04.53.20:923][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.15-04.53.21:014][832]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Objects/ControlTower/ControlTowerBP.ControlTowerBP
+[2020.04.15-04.53.21:319][832]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.15-04.53.22:191][832]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.22:208][832]LogSlate: Took 0.004686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.15-04.53.22:337][833]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.15-04.53.29:660][424]BlueprintLog: New page: Compile ControlTowerBP
+[2020.04.15-04.53.29:700][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:700][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:700][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:714][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:715][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:715][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:715][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:716][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:716][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:716][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:717][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:717][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:921][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.04.15-04.53.29:926][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:927][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:927][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:927][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:927][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:928][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:928][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:928][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:929][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:929][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:929][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:930][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:930][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:931][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:931][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:931][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:943][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:944][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:944][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:945][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.53.29:945][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:945][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:945][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:946][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.53.29:946][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:947][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:947][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:947][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.53.29:947][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:948][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:948][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.29:948][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.53.30:634][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/ControlTower/ControlTowerBP" FILE="E:/Documents/Unreal Projects/MyProject 4.23/Content/Objects/ControlTower/ControlTowerBP.uasset" SILENT=true
+[2020.04.15-04.53.30:705][482]LogSavePackage: Moving 'E:/Documents/Unreal Projects/MyProject 4.23/Saved/ControlTowerBPB5C4A5C14D216326F94A27BEF4C197A6.tmp' to 'E:/Documents/Unreal Projects/MyProject 4.23/Content/Objects/ControlTower/ControlTowerBP.uasset'
+[2020.04.15-04.53.30:881][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.15-04.53.40:888][196]LogRenderer: Reallocating scene render targets to support 1076x612 Format 10 NumSamples 1 (Frame:286).
+[2020.04.15-04.53.43:486][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerMap" FILE="E:/Documents/Unreal Projects/MyProject 4.23/Content/TowerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.15-04.53.43:522][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.04.15-04.53.43:544][465]LogBlueprint: Warning: [Compiler PersistentLevel.TowerMap] Node  Unknown  is not referencing a valid level actor
+[2020.04.15-04.53.43:758][465]LogSavePackage: Moving 'E:/Documents/Unreal Projects/MyProject 4.23/Saved/TowerMap149CD3874B46A54198A3E587931B8263.tmp' to 'E:/Documents/Unreal Projects/MyProject 4.23/Content/TowerMap.umap'
+[2020.04.15-04.53.43:804][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerMap_BuiltData" FILE="E:/Documents/Unreal Projects/MyProject 4.23/Content/TowerMap_BuiltData.uasset" SILENT=true
+[2020.04.15-04.53.43:877][465]LogSavePackage: Moving 'E:/Documents/Unreal Projects/MyProject 4.23/Saved/TowerMap_BuiltData42D1750C4F253CC51B21E0B25111A865.tmp' to 'E:/Documents/Unreal Projects/MyProject 4.23/Content/TowerMap_BuiltData.uasset'
+[2020.04.15-04.53.44:615][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.15-04.53.52:751][432]LogAssetEditorManager: Opening Asset editor for Material /Game/Objects/ControlTower/Materials/Green_Translucent.Green_Translucent
+[2020.04.15-04.53.52:754][432]LogMaterial: Display: Missing cached shader map for material Green_Translucent, compiling. 
+[2020.04.15-04.53.53:072][432]LogMaterial: Display: Missing cached shader map for material Green_Translucent, compiling. 
+[2020.04.15-04.53.53:096][432]LogMaterial: Display: Missing cached shader map for material Green_Translucent, compiling. 
+[2020.04.15-04.53.53:118][432]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.04.15-04.53.53:118][432]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 38
+[2020.04.15-04.53.53:118][432]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2020.04.15-04.53.53:119][432]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 36
+[2020.04.15-04.53.53:119][432]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2020.04.15-04.53.53:119][432]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2020.04.15-04.53.53:119][432]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 33
+[2020.04.15-04.53.53:119][432]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2020.04.15-04.53.53:124][432]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.15-04.53.53:431][442]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2020.04.15-04.53.53:453][443]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2020.04.15-04.53.53:453][443]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2020.04.15-04.53.53:453][443]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2020.04.15-04.53.53:549][449]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2020.04.15-04.53.53:562][450]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.04.15-04.53.53:579][451]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2020.04.15-04.53.53:612][453]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2020.04.15-04.53.53:627][454]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2020.04.15-04.53.53:643][455]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.04.15-04.53.53:716][460]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.04.15-04.53.53:749][462]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2020.04.15-04.53.54:019][476]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.04.15-04.53.54:063][479]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.04.15-04.53.54:143][485]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2020.04.15-04.53.54:157][486]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2020.04.15-04.53.54:157][486]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2020.04.15-04.53.54:186][488]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2020.04.15-04.53.54:399][500]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.04.15-04.53.54:475][504]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.04.15-04.53.54:528][507]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2020.04.15-04.53.54:546][508]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.04.15-04.53.54:560][509]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2020.04.15-04.53.54:686][517]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.04.15-04.53.54:782][523]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.04.15-04.53.54:881][529]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.04.15-04.53.54:975][535]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.04.15-04.53.55:073][542]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.04.15-04.53.55:088][543]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.04.15-04.53.55:118][545]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.04.15-04.53.55:182][549]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.04.15-04.53.55:277][555]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.04.15-04.53.55:320][558]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.04.15-04.53.55:404][564]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.04.15-04.53.55:444][567]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.04.15-04.53.55:722][585]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.04.15-04.53.55:722][585]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 105 instructions
+[2020.04.15-04.53.55:722][585]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2020.04.15-04.53.55:723][585]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.15-04.53.58:206][852]LogMaterial: Display: Missing cached shader map for material Green_Translucent, compiling. 
+[2020.04.15-04.53.58:234][852]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.04.15-04.53.58:234][852]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 38
+[2020.04.15-04.53.58:234][852]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2020.04.15-04.53.58:234][852]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 36
+[2020.04.15-04.53.58:234][852]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2020.04.15-04.53.58:234][852]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2020.04.15-04.53.58:234][852]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 33
+[2020.04.15-04.53.58:235][852]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2020.04.15-04.53.58:238][852]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.15-04.53.58:378][860]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2020.04.15-04.53.58:395][861]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2020.04.15-04.53.58:414][862]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2020.04.15-04.53.58:434][863]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2020.04.15-04.53.58:508][868]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 31
+[2020.04.15-04.53.58:539][870]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.04.15-04.53.58:539][870]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2020.04.15-04.53.58:539][870]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2020.04.15-04.53.58:567][872]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.04.15-04.53.58:568][872]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.04.15-04.53.58:638][877]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.04.15-04.53.58:654][878]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2020.04.15-04.53.58:959][896]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2020.04.15-04.53.58:988][898]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.04.15-04.53.59:047][902]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2020.04.15-04.53.59:062][903]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.04.15-04.53.59:062][903]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2020.04.15-04.53.59:104][906]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2020.04.15-04.53.59:237][914]LogMaterial: Display: Missing cached shader map for material Green_Translucent, compiling. 
+[2020.04.15-04.53.59:282][914]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.15-04.53.59:295][914]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.15-04.53.59:336][915]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2020.04.15-04.53.59:403][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2020.04.15-04.53.59:403][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2020.04.15-04.53.59:448][922]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2020.04.15-04.53.59:477][924]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2020.04.15-04.53.59:507][926]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2020.04.15-04.53.59:556][929]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2020.04.15-04.53.59:573][930]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2020.04.15-04.53.59:614][932]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2020.04.15-04.53.59:650][934]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2020.04.15-04.53.59:702][937]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2020.04.15-04.53.59:717][938]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2020.04.15-04.53.59:786][942]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 31
+[2020.04.15-04.53.59:786][942]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.04.15-04.53.59:822][944]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2020.04.15-04.53.59:822][944]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2020.04.15-04.53.59:838][945]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2020.04.15-04.53.59:851][946]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.04.15-04.53.59:891][949]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2020.04.15-04.53.59:934][951]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2020.04.15-04.54.00:246][969]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.04.15-04.54.00:290][972]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.04.15-04.54.00:320][974]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2020.04.15-04.54.00:334][975]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2020.04.15-04.54.00:349][976]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.04.15-04.54.00:362][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2020.04.15-04.54.00:375][978]LogMaterialEditor: Saving and Compiling material Green_Translucent
+[2020.04.15-04.54.00:971][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2020.04.15-04.54.00:971][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.04.15-04.54.00:971][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.04.15-04.54.00:971][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2020.04.15-04.54.00:971][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.04.15-04.54.00:971][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2020.04.15-04.54.00:971][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.04.15-04.54.01:022][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.04.15-04.54.01:022][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.04.15-04.54.01:022][978]LogMaterial: Display: Missing cached shader map for material Green_Translucent, compiling. 
+[2020.04.15-04.54.01:165][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2020.04.15-04.54.01:181][978]LogMaterial: Display: Missing cached shader map for material Green_Translucent, compiling. 
+[2020.04.15-04.54.01:213][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
+[2020.04.15-04.54.01:221][978]LogMaterial: Display: Missing cached shader map for material Green_Translucent, compiling. 
+[2020.04.15-04.54.01:254][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 39
+[2020.04.15-04.54.01:302][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 78
+[2020.04.15-04.54.01:302][978]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.04.15-04.54.01:314][978]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 79
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 78
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 77
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 76
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 75
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 74
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 73
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 72
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 71
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 70
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 69
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 68
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 67
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 65
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 63
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 61
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 60
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 59
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 57
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 56
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 55
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 54
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 52
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 51
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 50
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 48
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 45
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 42
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.04.15-04.54.03:372][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2020.04.15-04.54.03:375][978]TextureStreamingBuild: Display: Compiling optional shaders took 2.074 seconds.
+[2020.04.15-04.54.03:413][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.04.15-04.54.03:413][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.04.15-04.54.03:414][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.15-04.54.03:427][978]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.04.15-04.54.05:102][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.04.15-04.54.05:168][978]LogSavePackage: Moving 'E:/Documents/Unreal Projects/MyProject 4.23/Saved/Green_TranslucentF4386FC041A266EA88495D8892D742BF.tmp' to 'E:/Documents/Unreal Projects/MyProject 4.23/Content/Objects/ControlTower/Materials/Green_Translucent.uasset'
+[2020.04.15-04.54.05:181][978]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.04.15-04.54.05:181][978]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 105 instructions
+[2020.04.15-04.54.05:181][978]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2020.04.15-04.54.05:181][978]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.15-04.54.05:957][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.15-04.54.06:945][165]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.15-04.54.10:657][546]LogHttp: Warning: 0000016595EEC7C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B86B859D7-4660-1D5D-EAA6-AEAA962097B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=6cc5f0e848fb5bec0d6551a102a4e0ef%7Cfe3dd1f880434720be12ab63a96a296e%7C19791d62-f9fd-45d0-92f0-2dae48356e31&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.04.15-04.54.10:657][546]LogHttp: Warning: 0000016595EEC7C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.15-04.54.10:657][546]LogHttp: Warning: 0000016595EEC7C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.15-04.54.10:657][546]LogHttp: Warning: 0000016595EEC7C0: libcurl info message cache 1 (Closing connection 0)
+[2020.04.15-04.54.10:657][546]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B86B859D7-4660-1D5D-EAA6-AEAA962097B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=6cc5f0e848fb5bec0d6551a102a4e0ef%7Cfe3dd1f880434720be12ab63a96a296e%7C19791d62-f9fd-45d0-92f0-2dae48356e31&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.15-04.54.41:243][485]LogEditorTransaction: Undo Align Left
+[2020.04.15-04.54.41:245][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.41:246][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.41:246][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.41:247][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.41:247][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.41:247][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.41:247][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.41:248][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.41:248][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.41:249][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.41:249][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.41:249][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.41:249][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.41:250][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.41:250][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.41:250][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:088][182]LogEditorTransaction: Undo Move Nodes
+[2020.04.15-04.54.49:090][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:091][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:091][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:091][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:092][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:092][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:092][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:093][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:093][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:094][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:094][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:094][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:094][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:095][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:095][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:095][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:451][202]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.04.15-04.54.49:454][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:454][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:455][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:455][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:455][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:456][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:456][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:457][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:457][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:457][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:457][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:458][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:458][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:459][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:459][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:459][202]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:703][216]LogEditorTransaction: Undo Move Node
+[2020.04.15-04.54.49:705][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:705][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:705][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:706][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.54.49:707][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:707][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:707][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:708][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.54.49:708][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:708][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:708][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:709][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.54.49:709][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:710][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:710][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.54.49:710][216]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.05:908][682]LogEditorTransaction: Undo Align Left
+[2020.04.15-04.55.05:910][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.05:911][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.05:911][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.05:912][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.05:912][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.05:912][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.05:912][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.05:913][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.05:913][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.05:914][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.05:914][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.05:914][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.05:914][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.05:915][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.05:915][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.05:915][682]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.17:845][773]LogEditorTransaction: Undo Align Left
+[2020.04.15-04.55.17:847][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.17:848][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.17:848][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.17:848][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.17:849][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.17:849][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.17:849][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.17:850][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.17:850][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.17:850][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.17:850][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.17:851][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.17:851][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.17:852][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.17:852][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.17:852][773]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.50:596][809]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.04.15-04.55.50:599][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.50:599][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.50:599][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.50:600][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.50:600][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.50:600][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.50:601][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.50:601][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.50:601][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.50:602][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.50:602][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.50:602][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.50:603][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.50:603][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.50:603][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.50:603][809]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.59:697][544]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.04.15-04.55.59:700][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.59:700][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.59:700][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.59:701][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.55.59:701][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.59:702][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.59:702][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.59:702][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.55.59:702][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.59:703][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.59:703][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.59:703][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.55.59:704][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.59:704][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.59:704][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.55.59:705][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.00:151][568]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.04.15-04.56.00:154][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.00:154][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.00:154][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.00:155][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.00:155][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.00:156][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.00:156][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.00:156][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.00:157][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.00:157][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.00:157][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.00:158][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.00:158][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.00:158][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.00:158][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.00:159][568]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.00:766][611]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.04.15-04.56.00:769][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.00:769][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.00:769][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.00:770][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.00:770][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.00:771][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.00:771][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.00:771][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.00:772][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.00:772][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.00:772][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.00:772][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.00:773][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.00:773][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.00:773][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.00:774][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.01:751][681]LogEditorTransaction: Undo Move Node
+[2020.04.15-04.56.01:754][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.01:754][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.01:754][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.01:755][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.01:755][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.01:756][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.01:756][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.01:756][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.01:756][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.01:757][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.01:757][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.01:757][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.01:758][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.01:758][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.01:758][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.01:759][681]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.10:693][583]LogHttp: Warning: 000001659D18A200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B86B859D7-4660-1D5D-EAA6-AEAA962097B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=6cc5f0e848fb5bec0d6551a102a4e0ef%7Cfe3dd1f880434720be12ab63a96a296e%7C19791d62-f9fd-45d0-92f0-2dae48356e31&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.04.15-04.56.10:693][583]LogHttp: Warning: 000001659D18A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.15-04.56.10:693][583]LogHttp: Warning: 000001659D18A200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.15-04.56.10:693][583]LogHttp: Warning: 000001659D18A200: libcurl info message cache 1 (Closing connection 1)
+[2020.04.15-04.56.10:703][584]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B86B859D7-4660-1D5D-EAA6-AEAA962097B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=6cc5f0e848fb5bec0d6551a102a4e0ef%7Cfe3dd1f880434720be12ab63a96a296e%7C19791d62-f9fd-45d0-92f0-2dae48356e31&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.15-04.56.23:628][910]BlueprintLog: New page: Compile ControlTowerBP
+[2020.04.15-04.56.23:664][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:664][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:664][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:679][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:680][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:680][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:680][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:681][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:681][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:681][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:682][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:682][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:894][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.04.15-04.56.23:899][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:900][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:900][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:900][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:900][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:901][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:901][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:901][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:902][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:902][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:902][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:903][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:903][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:903][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:903][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:904][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:918][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:919][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:919][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:919][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.23:919][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:920][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:920][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:920][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.23:921][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:921][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:921][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:922][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.23:922][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:923][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:923][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.23:923][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.24:368][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/ControlTower/ControlTowerBP" FILE="E:/Documents/Unreal Projects/MyProject 4.23/Content/Objects/ControlTower/ControlTowerBP.uasset" SILENT=true
+[2020.04.15-04.56.24:454][939]LogSavePackage: Moving 'E:/Documents/Unreal Projects/MyProject 4.23/Saved/ControlTowerBP3AF601F4403CE8995008F3A9ADD003DE.tmp' to 'E:/Documents/Unreal Projects/MyProject 4.23/Content/Objects/ControlTower/ControlTowerBP.uasset'
+[2020.04.15-04.56.25:040][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.15-04.56.25:126][996]LogTemp: Repeating last play command: Simulate
+[2020.04.15-04.56.25:147][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TowerMap.TowerMap:PersistentLevel' has LevelScriptBlueprint '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap' with GeneratedClass '/Game/TowerMap.TowerMap_C' with ClassGeneratedBy '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap'
+[2020.04.15-04.56.25:147][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.15-04.56.25:147][996]PIE: New page: SIE session: TowerMap (Apr 14, 2020, 6:56:25 PM)
+[2020.04.15-04.56.25:148][996]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.15-04.56.25:149][996]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TowerMap
+[2020.04.15-04.56.25:153][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004057s)
+[2020.04.15-04.56.25:154][996]LogAIModule: Creating AISystem for world TowerMap
+[2020.04.15-04.56.25:154][996]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2020.04.15-04.56.25:154][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TowerMap.TowerMap to /Game/UEDPIE_0_TowerMap.TowerMap (0.005083s)
+[2020.04.15-04.56.25:192][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.04.15-04.56.25:207][996]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.15-04.56.25:224][996]LogInit: FAudioDevice initialized.
+[2020.04.15-04.56.25:232][996]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2020.04.15-04.56.25:232][996]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2020.04.15-04.56.25:232][996]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2020.04.15-04.56.25:232][996]LogLoad: Game class is 'GameModeBase'
+[2020.04.15-04.56.25:234][996]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.25:234][996]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.25:234][996]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.25:234][996]LogWorld: Bringing World /Game/UEDPIE_0_TowerMap.TowerMap up for play (max tick rate 0) at 2020.04.14-23.56.25
+[2020.04.15-04.56.25:235][996]LogWorld: Bringing up level for play took: 0.001909
+[2020.04.15-04.56.25:235][996]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.04.15-04.56.25:242][996]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.04.15-04.56.25:243][996]PIE: Play in editor start time for /Game/UEDPIE_0_TowerMap 0.728
+[2020.04.15-04.56.25:268][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TowerMap.TowerMap:PersistentLevel' has LevelScriptBlueprint '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap' with GeneratedClass '/Game/TowerMap.TowerMap_C' with ClassGeneratedBy '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap'
+[2020.04.15-04.56.27:030][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TowerMap.TowerMap:PersistentLevel' has LevelScriptBlueprint '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap' with GeneratedClass '/Game/TowerMap.TowerMap_C' with ClassGeneratedBy '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap'
+[2020.04.15-04.56.27:031][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.15-04.56.27:031][109]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TowerMap
+[2020.04.15-04.56.27:032][109]LogWorld: UWorld::CleanupWorld for TowerMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.15-04.56.27:052][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.15-04.56.27:052][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TowerMap.TowerMap:PersistentLevel' has LevelScriptBlueprint '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap' with GeneratedClass '/Game/TowerMap.TowerMap_C' with ClassGeneratedBy '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap'
+[2020.04.15-04.56.27:093][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.15-04.56.27:116][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.15-04.56.27:204][110]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.15-04.56.27:440][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.15-04.56.56:054][354]BlueprintLog: New page: Compile ControlTowerBP
+[2020.04.15-04.56.56:075][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:076][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:076][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:076][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:077][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:077][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:077][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:078][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:078][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:078][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:079][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:079][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:333][354]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.04.15-04.56.56:337][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:338][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:338][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:338][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:339][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:339][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:339][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:339][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:340][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:340][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:340][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:341][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:341][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:342][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:342][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:342][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:356][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:356][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:357][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:357][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.56:357][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:358][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:358][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:358][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.56:359][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:359][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:359][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:360][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.56:360][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:360][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:360][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:361][354]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.56.56:713][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/ControlTower/ControlTowerBP" FILE="E:/Documents/Unreal Projects/MyProject 4.23/Content/Objects/ControlTower/ControlTowerBP.uasset" SILENT=true
+[2020.04.15-04.56.56:791][382]LogSavePackage: Moving 'E:/Documents/Unreal Projects/MyProject 4.23/Saved/ControlTowerBP37716DDF4D4074518D5E398BF4FCF44F.tmp' to 'E:/Documents/Unreal Projects/MyProject 4.23/Content/Objects/ControlTower/ControlTowerBP.uasset'
+[2020.04.15-04.56.57:309][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.15-04.56.57:389][446]LogTemp: Repeating last play command: Simulate
+[2020.04.15-04.56.57:409][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TowerMap.TowerMap:PersistentLevel' has LevelScriptBlueprint '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap' with GeneratedClass '/Game/TowerMap.TowerMap_C' with ClassGeneratedBy '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap'
+[2020.04.15-04.56.57:409][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.15-04.56.57:409][446]PIE: New page: SIE session: TowerMap (Apr 14, 2020, 6:56:57 PM)
+[2020.04.15-04.56.57:409][446]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TowerMap
+[2020.04.15-04.56.57:413][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003983s)
+[2020.04.15-04.56.57:414][446]LogAIModule: Creating AISystem for world TowerMap
+[2020.04.15-04.56.57:414][446]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2020.04.15-04.56.57:414][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TowerMap.TowerMap to /Game/UEDPIE_0_TowerMap.TowerMap (0.004953s)
+[2020.04.15-04.56.57:453][446]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.04.15-04.56.57:467][446]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.15-04.56.57:482][446]LogInit: FAudioDevice initialized.
+[2020.04.15-04.56.57:487][446]LogLoad: Game class is 'GameModeBase'
+[2020.04.15-04.56.57:489][446]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_TowerMap.TowerMap:PersistentLevel.CT_1.Cylinder' 
+[2020.04.15-04.56.57:489][446]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_TowerMap.TowerMap:PersistentLevel.CT_3.Cylinder' 
+[2020.04.15-04.56.57:489][446]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_TowerMap.TowerMap:PersistentLevel.CT_9.Cylinder' 
+[2020.04.15-04.56.57:489][446]LogWorld: Bringing World /Game/UEDPIE_0_TowerMap.TowerMap up for play (max tick rate 0) at 2020.04.14-23.56.57
+[2020.04.15-04.56.57:489][446]LogWorld: Bringing up level for play took: 0.001849
+[2020.04.15-04.56.57:489][446]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.15-04.56.57:492][446]PIE: Play in editor start time for /Game/UEDPIE_0_TowerMap 0.977
+[2020.04.15-04.56.57:493][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TowerMap.TowerMap:PersistentLevel' has LevelScriptBlueprint '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap' with GeneratedClass '/Game/TowerMap.TowerMap_C' with ClassGeneratedBy '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap'
+[2020.04.15-04.57.16:263][271]LogBlueprintUserMessages: [CT_1] Request Confirmed
+[2020.04.15-04.57.21:556][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.15-04.57.21:622][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TowerMap.TowerMap:PersistentLevel' has LevelScriptBlueprint '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap' with GeneratedClass '/Game/TowerMap.TowerMap_C' with ClassGeneratedBy '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap'
+[2020.04.15-04.57.21:622][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.15-04.57.21:622][771]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TowerMap
+[2020.04.15-04.57.21:623][771]LogWorld: UWorld::CleanupWorld for TowerMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.15-04.57.21:638][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.15-04.57.21:639][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TowerMap.TowerMap:PersistentLevel' has LevelScriptBlueprint '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap' with GeneratedClass '/Game/TowerMap.TowerMap_C' with ClassGeneratedBy '/Game/TowerMap.TowerMap:PersistentLevel.TowerMap'
+[2020.04.15-04.57.21:680][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.15-04.57.21:684][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.04.15-04.57.21:774][772]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.15-04.57.23:176][928]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.57.23:176][928]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.57.23:177][928]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.57.23:177][928]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.ControlTowerBP_C_0.Cylinder' 
+[2020.04.15-04.57.33:671][828]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Drone/DroneSchedulerBP.DroneSchedulerBP
+[2020.04.15-04.57.42:880][612]LogUObjectArray: Warning: Other object in slot
+[2020.04.15-04.57.42:881][612]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.15-04.57.42:962][612]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.081 s
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: 
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: Stack: 
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff858f05279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff858727fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff85873622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff87b226c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff85abf4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff85abae057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff87e60d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff87e7fc533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff87e65922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff87e635738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff87e629a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff8a28e4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff8a28d26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff8a28e7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff8a28cedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff8b63b74d6 USER32.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff8b63b6ff2 USER32.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff8a28e88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff6f2f56980 UE4Editor.exe!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff6f2f6a91c UE4Editor.exe!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff6f2f6a9fa UE4Editor.exe!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff6f2f7b92c UE4Editor.exe!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff6f2f7e60e UE4Editor.exe!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff8b60a7974 KERNEL32.DLL!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: [Callstack] 0x00007ff8b732a261 ntdll.dll!UnknownFunction []
+[2020.04.15-04.57.42:962][612]LogOutputDevice: Error: 
+[2020.04.15-04.57.42:992][612]LogStats:                SubmitErrorReport -  0.000 s

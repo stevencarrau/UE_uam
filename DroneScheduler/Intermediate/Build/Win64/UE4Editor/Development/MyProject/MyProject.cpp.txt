@@ -1,0 +1,2 @@
+E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+e:\documents\unreal projects\dronescheduler\source\myproject\MyProject.h

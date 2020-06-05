@@ -1,0 +1,31 @@
+VTOL_BP5: 
+Tower Waiting Times: 
+CT6: 0.0 
+CT1: 0.0 
+
+VTOL_BP6: 
+Tower Waiting Times: 
+CT5: 0.0 
+CT1: 0.0 
+CT3: 0.0 
+CT4: 1.474826 
+
+VTOL_BP56: 
+Tower Waiting Times: 
+CT2: 0.0 
+CT4: 0.0 
+CT1: 0.508717 
+CT3: 0.124639 
+CT6: 0.155686 
+
+VTOL_BP12: 
+Tower Waiting Times: 
+CT6: 0.0 
+CT3: 0.0 
+CT4: 0.36737 
+
+VTOL_BP76: 
+Tower Waiting Times: 
+CT6: 0.02042 
+CT3: 1.337875 
+

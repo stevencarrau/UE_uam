@@ -1,0 +1,100 @@
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\UnrealEnginePython\Definitions.UnrealEnginePython.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\wrappers\UEPyFPythonOutputDevice.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyModule.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\UnrealEnginePython.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime/SlateCore/Public/Styling/SlateStyle.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+E:\Applications\Python36\include/pyconfig.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\io.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_io.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+E:\Applications\Python36\include/Python.h
+e:\applications\python36\include\patchlevel.h
+e:\applications\python36\include\pymacconfig.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+e:\applications\python36\include\pyport.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\inttypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+e:\applications\python36\include\pymacro.h
+e:\applications\python36\include\pyatomic.h
+e:\applications\python36\include\pymath.h
+e:\applications\python36\include\pytime.h
+e:\applications\python36\include\object.h
+e:\applications\python36\include\pymem.h
+e:\applications\python36\include\objimpl.h
+e:\applications\python36\include\typeslots.h
+e:\applications\python36\include\pyhash.h
+e:\applications\python36\include\pydebug.h
+e:\applications\python36\include\bytearrayobject.h
+e:\applications\python36\include\bytesobject.h
+e:\applications\python36\include\unicodeobject.h
+e:\applications\python36\include\longobject.h
+e:\applications\python36\include\longintrepr.h
+e:\applications\python36\include\boolobject.h
+e:\applications\python36\include\floatobject.h
+e:\applications\python36\include\complexobject.h
+e:\applications\python36\include\rangeobject.h
+e:\applications\python36\include\memoryobject.h
+e:\applications\python36\include\tupleobject.h
+e:\applications\python36\include\listobject.h
+e:\applications\python36\include\dictobject.h
+e:\applications\python36\include\odictobject.h
+e:\applications\python36\include\enumobject.h
+e:\applications\python36\include\setobject.h
+e:\applications\python36\include\methodobject.h
+e:\applications\python36\include\moduleobject.h
+e:\applications\python36\include\funcobject.h
+e:\applications\python36\include\classobject.h
+e:\applications\python36\include\fileobject.h
+e:\applications\python36\include\pycapsule.h
+e:\applications\python36\include\traceback.h
+e:\applications\python36\include\pystate.h
+e:\applications\python36\include\sliceobject.h
+e:\applications\python36\include\cellobject.h
+e:\applications\python36\include\iterobject.h
+e:\applications\python36\include\genobject.h
+e:\applications\python36\include\descrobject.h
+e:\applications\python36\include\warnings.h
+e:\applications\python36\include\weakrefobject.h
+e:\applications\python36\include\structseq.h
+e:\applications\python36\include\namespaceobject.h
+e:\applications\python36\include\codecs.h
+e:\applications\python36\include\pyerrors.h
+e:\applications\python36\include\pyarena.h
+e:\applications\python36\include\modsupport.h
+e:\applications\python36\include\pythonrun.h
+e:\applications\python36\include\pylifecycle.h
+e:\applications\python36\include\ceval.h
+e:\applications\python36\include\sysmodule.h
+e:\applications\python36\include\osmodule.h
+e:\applications\python36\include\intrcheck.h
+e:\applications\python36\include\import.h
+e:\applications\python36\include\abstract.h
+e:\applications\python36\include\bltinmodule.h
+e:\applications\python36\include\compile.h
+e:\applications\python36\include\code.h
+e:\applications\python36\include\eval.h
+e:\applications\python36\include\pyctype.h
+e:\applications\python36\include\pystrtod.h
+e:\applications\python36\include\pystrcmp.h
+e:\applications\python36\include\dtoa.h
+e:\applications\python36\include\fileutils.h
+e:\applications\python36\include\pyfpe.h
+E:\Applications\Python36\include/structmember.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonDelegate.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEnginePython\PythonDelegate.generated.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonSmartDelegate.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\UEPyUScriptStruct.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonHouseKeeper.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Slate/UEPySlateDelegate.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPySlatePythonItem.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFVector.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFRotator.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\wrappers\UEPyFQuat.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFTransform.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFColor.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFLinearColor.h

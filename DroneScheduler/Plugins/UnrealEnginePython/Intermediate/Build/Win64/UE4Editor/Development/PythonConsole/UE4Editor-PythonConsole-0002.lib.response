@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PythonConsole-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\PyFbxFactory.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\PythonConsoleModule.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\PythonScriptFactory.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\SPythonConsole.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\SPythonLog.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\PyFactory.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\PyFbxFactory.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\PythonConsole.init.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\PythonScriptFactory.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\Default.rc2.res"
+/OUT:"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\UE4Editor-PythonConsole-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_PythonConsole

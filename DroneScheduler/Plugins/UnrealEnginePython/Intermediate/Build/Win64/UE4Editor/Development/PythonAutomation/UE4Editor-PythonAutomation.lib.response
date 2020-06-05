@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PythonAutomation.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\PythonAutomationModule.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\UEPyFAutomationEditorCommonUtils.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\Default.rc2.res"
+/OUT:"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\UE4Editor-PythonAutomation.lib"
+/INCLUDE:IMPLEMENT_MODULE_PythonAutomation

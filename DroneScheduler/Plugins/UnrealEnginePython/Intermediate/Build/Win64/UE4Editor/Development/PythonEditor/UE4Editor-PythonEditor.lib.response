@@ -1,0 +1,32 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PythonEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\DirectoryScanner.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PYRichTextSyntaxHighlighterTextLayoutMarshaller.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditor.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditorCustomization.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditorStyle.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProject.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectEditor.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectEditorCommands.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectEditorToolbar.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectItem.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonSyntaxTokenizer.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\SProjectViewItem.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\SPythonEditableText.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\SPythonEditor.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\SPythonProjectEditor.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\WhiteSpaceTextRun.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditor.init.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditorCustomization.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProject.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectItem.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\Default.rc2.res"
+/OUT:"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\UE4Editor-PythonEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_PythonEditor

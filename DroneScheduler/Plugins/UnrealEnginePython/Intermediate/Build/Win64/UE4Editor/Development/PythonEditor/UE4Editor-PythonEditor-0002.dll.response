@@ -1,0 +1,100 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"E:\Applications\Python36\libs"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\DirectoryScanner.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PYRichTextSyntaxHighlighterTextLayoutMarshaller.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditor.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditorCustomization.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditorStyle.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProject.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectEditor.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectEditorCommands.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectEditorToolbar.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectItem.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonSyntaxTokenizer.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\SProjectViewItem.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\SPythonEditableText.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\SPythonEditor.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\SPythonProjectEditor.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\WhiteSpaceTextRun.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditor.init.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonEditorCustomization.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProject.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\PythonProjectItem.gen.cpp.obj"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\Default.rc2.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"E:/Applications/Python36\libs\python36.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\AssetTools\UE4Editor-AssetTools.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\EditorStyle\UE4Editor-EditorStyle.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\PropertyEditor\UE4Editor-PropertyEditor.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Kismet\UE4Editor-Kismet.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\DirectoryWatcher\UE4Editor-DirectoryWatcher.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelEditor\UE4Editor-LevelEditor.lib"
+"D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Development\Projects\UE4Editor-Projects.lib"
+"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\UnrealEnginePython\UE4Editor-UnrealEnginePython-0002.lib"
+/OUT:"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Binaries\Win64\UE4Editor-PythonEditor-0002.dll"
+/IMPLIB:"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\UE4Editor-PythonEditor-0002.suppressed.lib"
+/PDB:"E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Binaries\Win64\UE4Editor-PythonEditor-0002.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_PythonEditor

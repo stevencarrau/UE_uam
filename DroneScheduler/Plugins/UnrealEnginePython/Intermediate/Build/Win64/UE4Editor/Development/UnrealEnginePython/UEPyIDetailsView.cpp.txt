@@ -1,0 +1,251 @@
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\UnrealEnginePython\Definitions.UnrealEnginePython.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPyIDetailsView.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\UnrealEnginePython.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime/SlateCore/Public/Styling/SlateStyle.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+E:\Applications\Python36\include/pyconfig.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\io.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_io.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+E:\Applications\Python36\include/Python.h
+e:\applications\python36\include\patchlevel.h
+e:\applications\python36\include\pymacconfig.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+e:\applications\python36\include\pyport.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\inttypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+e:\applications\python36\include\pymacro.h
+e:\applications\python36\include\pyatomic.h
+e:\applications\python36\include\pymath.h
+e:\applications\python36\include\pytime.h
+e:\applications\python36\include\object.h
+e:\applications\python36\include\pymem.h
+e:\applications\python36\include\objimpl.h
+e:\applications\python36\include\typeslots.h
+e:\applications\python36\include\pyhash.h
+e:\applications\python36\include\pydebug.h
+e:\applications\python36\include\bytearrayobject.h
+e:\applications\python36\include\bytesobject.h
+e:\applications\python36\include\unicodeobject.h
+e:\applications\python36\include\longobject.h
+e:\applications\python36\include\longintrepr.h
+e:\applications\python36\include\boolobject.h
+e:\applications\python36\include\floatobject.h
+e:\applications\python36\include\complexobject.h
+e:\applications\python36\include\rangeobject.h
+e:\applications\python36\include\memoryobject.h
+e:\applications\python36\include\tupleobject.h
+e:\applications\python36\include\listobject.h
+e:\applications\python36\include\dictobject.h
+e:\applications\python36\include\odictobject.h
+e:\applications\python36\include\enumobject.h
+e:\applications\python36\include\setobject.h
+e:\applications\python36\include\methodobject.h
+e:\applications\python36\include\moduleobject.h
+e:\applications\python36\include\funcobject.h
+e:\applications\python36\include\classobject.h
+e:\applications\python36\include\fileobject.h
+e:\applications\python36\include\pycapsule.h
+e:\applications\python36\include\traceback.h
+e:\applications\python36\include\pystate.h
+e:\applications\python36\include\sliceobject.h
+e:\applications\python36\include\cellobject.h
+e:\applications\python36\include\iterobject.h
+e:\applications\python36\include\genobject.h
+e:\applications\python36\include\descrobject.h
+e:\applications\python36\include\warnings.h
+e:\applications\python36\include\weakrefobject.h
+e:\applications\python36\include\structseq.h
+e:\applications\python36\include\namespaceobject.h
+e:\applications\python36\include\codecs.h
+e:\applications\python36\include\pyerrors.h
+e:\applications\python36\include\pyarena.h
+e:\applications\python36\include\modsupport.h
+e:\applications\python36\include\pythonrun.h
+e:\applications\python36\include\pylifecycle.h
+e:\applications\python36\include\ceval.h
+e:\applications\python36\include\sysmodule.h
+e:\applications\python36\include\osmodule.h
+e:\applications\python36\include\intrcheck.h
+e:\applications\python36\include\import.h
+e:\applications\python36\include\abstract.h
+e:\applications\python36\include\bltinmodule.h
+e:\applications\python36\include\compile.h
+e:\applications\python36\include\code.h
+e:\applications\python36\include\eval.h
+e:\applications\python36\include\pyctype.h
+e:\applications\python36\include\pystrtod.h
+e:\applications\python36\include\pystrcmp.h
+e:\applications\python36\include\dtoa.h
+e:\applications\python36\include\fileutils.h
+e:\applications\python36\include\pyfpe.h
+E:\Applications\Python36\include/structmember.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPySCompoundWidget.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPySWidget.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPySlate.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyModule.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonDelegate.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEnginePython\PythonDelegate.generated.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonSmartDelegate.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\UEPyUScriptStruct.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonHouseKeeper.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Slate/UEPySlateDelegate.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPySlatePythonItem.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFVector.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFRotator.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\wrappers\UEPyFQuat.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFTransform.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFColor.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\Wrappers/UEPyFLinearColor.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor/WorkspaceMenuStructure/Public/WorkspaceMenuStructureModule.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor/WorkspaceMenuStructure/Public/WorkspaceMenuStructure.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPyFGeometry.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPyFPaintContext.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime/UMG/Public/Blueprint/UserWidget.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectThreadContext.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Camera/CameraShake.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraShake.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Player.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Player.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Subsystems/LocalPlayerSubsystem.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayerSubsystem.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LocalPlayer.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Logging/MessageLog.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSignedObject.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneTrack.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\IMovieSceneTrackInstance.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneAnimTypeID.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSection.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneFwd.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSequenceID.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\KeyParams.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieScene.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSpawnable.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneBinding.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieScenePossessable.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneObjectBindingID.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneFrameMigration.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneTimeController.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendType.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Generators/MovieSceneEasingFunction.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Compilation/MovieSceneSegmentCompiler.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSegment.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTemplate.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackIdentifier.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationField.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationKey.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTrack.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieScenePlayback.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceTransform.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplate.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvalTemplateBase.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneExecutionTokens.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneExecutionToken.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationScope.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/PersistentEvaluationData.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationOperand.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceInstanceData.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableToken.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneBlendingActuator.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\IMovieScenePlayer.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieScenePreAnimatedState.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\MovieSceneSpawnRegister.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\IMovieSceneObjectSpawner.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationState.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/IMovieSceneMotionVectorSimulation.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/BlendableTokenStack.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneInitialValueStore.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\evaluation\blending\MovieSceneBlendingAccumulator.inl
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Compilation/MovieSceneTemplateInterrogation.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneTrackImplementation.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneEvaluationTree.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSequenceHierarchy.h
+d:\games\epic games\ue_4.23\engine\source\runtime\moviescene\public\Evaluation/MovieSceneSectionParameters.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+d:\games\epic games\ue_4.23\engine\source\runtime\propertypath\public\PropertyTypeCompatibility.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPyFInputEvent.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPyFPointerEvent.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPyFKeyEvent.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPyFCharacterEvent.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\unrealenginepython\private\slate\UEPyFModifierKeysState.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor/PropertyEditor/Public/IDetailsView.h
+d:\games\epic games\ue_4.23\engine\source\editor\propertyeditor\public\PropertyEditorDelegates.h

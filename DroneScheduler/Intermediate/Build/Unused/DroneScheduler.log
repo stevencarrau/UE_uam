@@ -1,0 +1,44 @@
+﻿  Parsing headers for MyProjectEditor
+    Running UnrealHeaderTool "E:\Documents\Unreal Projects\DroneScheduler\DroneScheduler.uproject" "E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MyProjectEditor in 22.1064441 seconds
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Binaries\Win64\UE4Editor-MyProject-0001.dll
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Binaries\Win64\UE4Editor-MyProject-0002.dll
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0001.lib
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.lib
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Binaries\Win64\UE4Editor-PythonAutomation-0001.dll
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Binaries\Win64\UE4Editor-PythonAutomation-0002.dll
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Binaries\Win64\UE4Editor-PythonConsole-0002.dll
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Binaries\Win64\UE4Editor-PythonEditor-0002.dll
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Binaries\Win64\UE4Editor-UnrealEnginePython-0001.dll
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Binaries\Win64\UE4Editor-UnrealEnginePython-0002.dll
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\UE4Editor-PythonAutomation-0001.lib
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\UE4Editor-PythonAutomation-0002.lib
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\UE4Editor-PythonConsole-0002.lib
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\UE4Editor-PythonEditor-0002.lib
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\UnrealEnginePython\UE4Editor-UnrealEnginePython-0001.lib
+  Deleted hot-reload file: E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\UnrealEnginePython\UE4Editor-UnrealEnginePython-0002.lib
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 11 actions with 12 processes...
+    [1/11] UE4Editor-PythonConsole.lib
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\UE4Editor-PythonConsole.lib and object E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\UE4Editor-PythonConsole.exp
+    [2/11] UE4Editor-PythonEditor.lib
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\UE4Editor-PythonEditor.lib and object E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\UE4Editor-PythonEditor.exp
+    [3/11] UE4Editor-PythonAutomation.lib
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\UE4Editor-PythonAutomation.lib and object E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\UE4Editor-PythonAutomation.exp
+    [4/11] UE4Editor-MyProject.lib
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib and object E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.exp
+    [5/11] UE4Editor-MyProject.dll
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.lib and object E:\Documents\Unreal Projects\DroneScheduler\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.suppressed.exp
+    [6/11] UE4Editor-UnrealEnginePython.lib
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\UnrealEnginePython\UE4Editor-UnrealEnginePython.lib and object E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\UnrealEnginePython\UE4Editor-UnrealEnginePython.exp
+    [7/11] UE4Editor-PythonAutomation.dll
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\UE4Editor-PythonAutomation.suppressed.lib and object E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonAutomation\UE4Editor-PythonAutomation.suppressed.exp
+    [8/11] UE4Editor-PythonConsole.dll
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\UE4Editor-PythonConsole.suppressed.lib and object E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\UE4Editor-PythonConsole.suppressed.exp
+    [9/11] UE4Editor-PythonEditor.dll
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\UE4Editor-PythonEditor.suppressed.lib and object E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\UE4Editor-PythonEditor.suppressed.exp
+    [10/11] UE4Editor-UnrealEnginePython.dll
+       Creating library E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\UnrealEnginePython\UE4Editor-UnrealEnginePython.suppressed.lib and object E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\UnrealEnginePython\UE4Editor-UnrealEnginePython.suppressed.exp
+    [11/11] MyProjectEditor.target
+  Total time in Parallel executor: 35.04 seconds
+  Total execution time: 59.39 seconds

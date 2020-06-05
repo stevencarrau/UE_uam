@@ -1,0 +1,6 @@
+﻿  Cleaning MyProjectEditor and UnrealHeaderTool binaries...
+  Creating makefile for MyProjectEditor (no existing makefile)
+UnrealBuildTool : error : Unable to instantiate module 'UnrealEnginePython': System.Exception: Unable to find Python installation
+                             at UnrealEnginePython..ctor(ReadOnlyTargetRules Target) in e:\Documents\Unreal Projects\MyProject 4.23\Plugins\UnrealEnginePython\Source\UnrealEnginePython\UnrealEnginePython.Build.cs:line 226
+                          (referenced via default plugins -> UnrealEnginePython.uplugin)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command ""D:\Games\Epic Games\UE_4.23\Engine\Build\BatchFiles\Rebuild.bat" MyProjectEditor Win64 Development -Project="E:\Documents\Unreal Projects\MyProject 4.23\MyProject.uproject" -WaitMutex -FromMsBuild" exited with code -1.

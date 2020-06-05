@@ -1,0 +1,439 @@
+VTOL_BP31: 
+Tower Waiting Times: 
+ControlTowerBP3: 0.088341 
+ControlTowerBP8: 0.346848 
+ControlTowerBP7: 0.447213 
+
+VTOL_BP98: 
+Tower Waiting Times: 
+ControlTowerBP3: 1.016047 
+ControlTowerBP7: 0.320049 
+
+VTOL_BP18: 
+Tower Waiting Times: 
+ControlTowerBP3: 0.014414 
+ControlTowerBP4: 0.418196 
+ControlTowerBP5: 0.225931 
+
+VTOL_BP32: 
+Tower Waiting Times: 
+ControlTowerBP5: 0.008397 
+ControlTowerBP4: 3.346542 
+
+VTOL_BP13: 
+Tower Waiting Times: 
+ControlTowerBP7: 0.088341 
+ControlTowerBP3: 0.346848 
+ControlTowerBP8: 0.292938 
+ControlTowerBP4: 3.470059 
+
+VTOL_BP91: 
+Tower Waiting Times: 
+ControlTowerBP4: 0.008333 
+ControlTowerBP3: 1.334268 
+
+VTOL_BP48: 
+Tower Waiting Times: 
+ControlTowerBP6: 0.008922 
+ControlTowerBP8: 2.84796 
+ControlTowerBP7: 0.723893 
+
+VTOL_BP5: 
+Tower Waiting Times: 
+ControlTowerBP8: 0.008465 
+ControlTowerBP4: 7.393994 
+ControlTowerBP5: 0.504757 
+
+VTOL_BP74: 
+Tower Waiting Times: 
+ControlTowerBP3: 2.528414 
+ControlTowerBP4: 12.456152 
+
+VTOL_BP12: 
+Tower Waiting Times: 
+ControlTowerBP7: 2.533434 
+ControlTowerBP8: 0.0 
+ControlTowerBP6: 0.507322 
+
+VTOL_BP21: 
+Tower Waiting Times: 
+ControlTowerBP4: 9.089568 
+ControlTowerBP3: 0.343281 
+
+VTOL_BP29: 
+Tower Waiting Times: 
+ControlTowerBP4: 9.617211 
+ControlTowerBP5: 0.35236 
+ControlTowerBP6: 0.502533 
+
+VTOL_BP45: 
+Tower Waiting Times: 
+ControlTowerBP4: 9.104561 
+ControlTowerBP3: 0.0 
+ControlTowerBP8: 0.0 
+
+VTOL_BP89: 
+Tower Waiting Times: 
+ControlTowerBP4: 5.576559 
+ControlTowerBP6: 6.89007 
+ControlTowerBP9: 2.016777 
+
+VTOL_BP86: 
+Tower Waiting Times: 
+ControlTowerBP9: 0.008334 
+ControlTowerBP5: 0.320049 
+ControlTowerBP6: 0.27017 
+ControlTowerBP4: 16.670891 
+ControlTowerBP8: 1.509569 
+ControlTowerBP3: 0.697891 
+ControlTowerBP7: 0.283092 
+
+VTOL_BP78: 
+Tower Waiting Times: 
+ControlTowerBP8: 0.018096 
+ControlTowerBP4: 18.509634 
+ControlTowerBP5: 2.529301 
+
+VTOL_BP35: 
+Tower Waiting Times: 
+ControlTowerBP5: 0.017214 
+ControlTowerBP4: 2.850502 
+ControlTowerBP3: 5.563133 
+
+VTOL_BP93: 
+Tower Waiting Times: 
+ControlTowerBP6: 8.088978 
+ControlTowerBP9: 4.370243 
+
+VTOL_BP59: 
+Tower Waiting Times: 
+ControlTowerBP8: 0.017138 
+ControlTowerBP6: 17.990114 
+
+VTOL_BP15: 
+Tower Waiting Times: 
+ControlTowerBP8: 2.537237 
+ControlTowerBP7: 0.0 
+ControlTowerBP6: 11.604858 
+ControlTowerBP9: 4.037338 
+
+VTOL_BP39: 
+Tower Waiting Times: 
+ControlTowerBP6: 6.568882 
+ControlTowerBP5: 4.896347 
+ControlTowerBP4: 11.09206 
+
+VTOL_BP19: 
+Tower Waiting Times: 
+ControlTowerBP3: 7.0755 
+ControlTowerBP4: 3.874828 
+
+VTOL_BP7: 
+Tower Waiting Times: 
+ControlTowerBP3: 0.01688 
+ControlTowerBP4: 0.0 
+ControlTowerBP5: 6.05479 
+
+VTOL_BP30: 
+Tower Waiting Times: 
+ControlTowerBP4: 16.180391 
+ControlTowerBP3: 0.0 
+ControlTowerBP8: 3.027039 
+
+VTOL_BP41: 
+Tower Waiting Times: 
+ControlTowerBP5: 0.01688 
+ControlTowerBP9: 0.328632 
+ControlTowerBP6: 14.796726 
+
+VTOL_BP71: 
+Tower Waiting Times: 
+ControlTowerBP9: 0.008693 
+ControlTowerBP5: 1.841346 
+ControlTowerBP6: 0.275961 
+ControlTowerBP4: 22.721106 
+ControlTowerBP8: 5.549332 
+ControlTowerBP3: 11.103271 
+ControlTowerBP7: 0.504604 
+
+VTOL_BP20: 
+Tower Waiting Times: 
+ControlTowerBP3: 1.022514 
+ControlTowerBP4: 5.380066 
+ControlTowerBP5: 5.54874 
+ControlTowerBP9: 6.206638 
+
+VTOL_BP69: 
+Tower Waiting Times: 
+ControlTowerBP8: 4.548389 
+ControlTowerBP4: 6.900616 
+ControlTowerBP3: 0.500694 
+
+VTOL_BP55: 
+Tower Waiting Times: 
+ControlTowerBP4: 12.63579 
+ControlTowerBP5: 12.934261 
+
+VTOL_BP72: 
+Tower Waiting Times: 
+ControlTowerBP4: 8.099771 
+ControlTowerBP5: 0.318172 
+ControlTowerBP6: 24.223186 
+ControlTowerBP9: 1.516582 
+
+VTOL_BP49: 
+Tower Waiting Times: 
+ControlTowerBP6: 7.58884 
+ControlTowerBP8: 11.935741 
+ControlTowerBP7: 0.508446 
+
+VTOL_BP38: 
+Tower Waiting Times: 
+ControlTowerBP7: 0.017857 
+ControlTowerBP3: 1.838837 
+ControlTowerBP4: 15.62141 
+
+VTOL_BP11: 
+Tower Waiting Times: 
+ControlTowerBP3: 2.043633 
+ControlTowerBP4: 14.969028 
+ControlTowerBP5: 1.005203 
+
+VTOL_BP79: 
+Tower Waiting Times: 
+ControlTowerBP9: 5.059845 
+ControlTowerBP6: 6.894314 
+ControlTowerBP8: 2.007324 
+ControlTowerBP7: 3.067947 
+
+VTOL_BP90: 
+Tower Waiting Times: 
+ControlTowerBP5: 2.034294 
+ControlTowerBP4: 13.943798 
+ControlTowerBP8: 1.516582 
+ControlTowerBP7: 4.780933 
+
+VTOL_BP64: 
+Tower Waiting Times: 
+ControlTowerBP3: 9.092808 
+ControlTowerBP4: 12.412228 
+ControlTowerBP8: 6.538437 
+
+VTOL_BP28: 
+Tower Waiting Times: 
+ControlTowerBP7: 2.031239 
+ControlTowerBP8: 0.334141 
+ControlTowerBP6: 29.830845 
+
+VTOL_BP4: 
+Tower Waiting Times: 
+ControlTowerBP9: 0.00909 
+ControlTowerBP5: 5.373623 
+ControlTowerBP4: 15.120594 
+ControlTowerBP3: 0.501598 
+
+VTOL_BP70: 
+Tower Waiting Times: 
+ControlTowerBP7: 0.01688 
+ControlTowerBP8: 1.848454 
+ControlTowerBP6: 27.346809 
+ControlTowerBP9: 0.505409 
+
+VTOL_BP50: 
+Tower Waiting Times: 
+ControlTowerBP9: 0.017296 
+ControlTowerBP6: 25.044765 
+ControlTowerBP8: 6.535828 
+ControlTowerBP7: 4.281456 
+
+VTOL_BP66: 
+Tower Waiting Times: 
+ControlTowerBP6: 21.209911 
+ControlTowerBP4: 14.924129 
+ControlTowerBP3: 8.073349 
+
+VTOL_BP76: 
+Tower Waiting Times: 
+ControlTowerBP6: 22.685799 
+ControlTowerBP8: 4.371788 
+
+VTOL_BP17: 
+Tower Waiting Times: 
+ControlTowerBP8: 3.037258 
+ControlTowerBP6: 17.962372 
+ControlTowerBP4: 3.533569 
+ControlTowerBP5: 0.361107 
+
+VTOL_BP6: 
+Tower Waiting Times: 
+ControlTowerBP5: 13.121616 
+ControlTowerBP4: 18.452599 
+ControlTowerBP3: 11.11042 
+
+VTOL_BP65: 
+Tower Waiting Times: 
+ControlTowerBP7: 0.01683 
+ControlTowerBP8: 3.868584 
+
+VTOL_BP80: 
+Tower Waiting Times: 
+ControlTowerBP4: 18.644238 
+ControlTowerBP3: 8.921791 
+
+VTOL_BP34: 
+Tower Waiting Times: 
+ControlTowerBP4: 18.64082 
+ControlTowerBP3: 17.993279 
+
+VTOL_BP37: 
+Tower Waiting Times: 
+ControlTowerBP9: 0.009483 
+ControlTowerBP6: 6.398506 
+ControlTowerBP8: 5.042625 
+
+VTOL_BP23: 
+Tower Waiting Times: 
+ControlTowerBP7: 6.558289 
+ControlTowerBP8: 9.390984 
+ControlTowerBP6: 15.137756 
+
+VTOL_BP44: 
+Tower Waiting Times: 
+ControlTowerBP6: 14.14782 
+ControlTowerBP9: 0.326935 
+
+VTOL_BP33: 
+Tower Waiting Times: 
+ControlTowerBP8: 10.113937 
+ControlTowerBP7: 0.0 
+ControlTowerBP6: 7.052399 
+
+VTOL_BP51: 
+Tower Waiting Times: 
+ControlTowerBP4: 23.696072 
+ControlTowerBP3: 11.434364 
+
+VTOL_BP75: 
+Tower Waiting Times: 
+ControlTowerBP6: 9.606346 
+ControlTowerBP8: 8.902626 
+ControlTowerBP7: 0.508736 
+
+VTOL_BP54: 
+Tower Waiting Times: 
+ControlTowerBP3: 7.0728 
+ControlTowerBP4: 13.951843 
+
+VTOL_BP2: 
+Tower Waiting Times: 
+ControlTowerBP7: 3.05085 
+ControlTowerBP8: 9.916237 
+
+VTOL_BP53: 
+Tower Waiting Times: 
+ControlTowerBP9: 1.530853 
+ControlTowerBP6: 30.566032 
+ControlTowerBP4: 6.561646 
+ControlTowerBP3: 16.146835 
+
+VTOL_BP8: 
+Tower Waiting Times: 
+ControlTowerBP9: 0.020462 
+ControlTowerBP6: 17.988495 
+
+VTOL_BP56: 
+Tower Waiting Times: 
+ControlTowerBP9: 0.008503 
+ControlTowerBP5: 7.369743 
+ControlTowerBP4: 19.67347 
+ControlTowerBP3: 13.624687 
+
+VTOL_BP47: 
+Tower Waiting Times: 
+ControlTowerBP8: 10.08696 
+ControlTowerBP6: 17.498466 
+ControlTowerBP4: 0.503204 
+ControlTowerBP5: 0.36261 
+
+VTOL_BP25: 
+Tower Waiting Times: 
+ControlTowerBP4: 25.71468 
+ControlTowerBP8: 12.432899 
+ControlTowerBP7: 0.503525 
+
+VTOL_BP82: 
+Tower Waiting Times: 
+ControlTowerBP3: 2.017136 
+ControlTowerBP4: 18.995323 
+ControlTowerBP8: 10.616928 
+
+VTOL_BP: 
+Tower Waiting Times: 
+ControlTowerBP3: 0.00872 
+ControlTowerBP8: 12.42878 
+ControlTowerBP4: 11.597443 
+ControlTowerBP6: 14.142662 
+
+VTOL_BP63: 
+Tower Waiting Times: 
+ControlTowerBP6: 11.121986 
+ControlTowerBP8: 0.839371 
+ControlTowerBP7: 0.389175 
+
+VTOL_BP26: 
+Tower Waiting Times: 
+ControlTowerBP9: 1.53521 
+ControlTowerBP5: 0.332138 
+ControlTowerBP4: 0.409203 
+ControlTowerBP3: 0.371887 
+
+VTOL_BP95: 
+Tower Waiting Times: 
+ControlTowerBP9: 0.008636 
+ControlTowerBP5: 0.335861 
+
+VTOL_BP94: 
+Tower Waiting Times: 
+ControlTowerBP6: 12.647934 
+ControlTowerBP4: 5.864754 
+
+VTOL_BP9: 
+Tower Waiting Times: 
+ControlTowerBP9: 0.008331 
+ControlTowerBP6: 19.001343 
+
+VTOL_BP85: 
+Tower Waiting Times: 
+ControlTowerBP3: 1.024994 
+ControlTowerBP4: 0.0 
+ControlTowerBP5: 0.0 
+
+VTOL_BP92: 
+Tower Waiting Times: 
+ControlTowerBP3: 11.144562 
+ControlTowerBP4: 0.313164 
+ControlTowerBP5: 0.136894 
+ControlTowerBP9: 0.275536 
+
+VTOL_BP46: 
+Tower Waiting Times: 
+ControlTowerBP4: 4.537498 
+ControlTowerBP5: 3.342918 
+
+VTOL_BP87: 
+Tower Waiting Times: 
+ControlTowerBP6: 0.008568 
+ControlTowerBP8: 1.840027 
+
+VTOL_BP24: 
+Tower Waiting Times: 
+ControlTowerBP8: 0.008568 
+ControlTowerBP6: 0.329285 
+
+VTOL_BP52: 
+Tower Waiting Times: 
+ControlTowerBP7: 0.008331 
+ControlTowerBP8: 0.332161 
+ControlTowerBP3: 0.427536 
+ControlTowerBP4: 0.016663 
+

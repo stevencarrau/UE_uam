@@ -1,0 +1,12 @@
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\Definitions.PythonEditor.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\pythoneditor\private\PythonProjectEditorToolbar.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\pythoneditor\private\PythonProjectEditor.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor/Kismet/Public/WorkflowOrientedApp/WorkflowCentricApplication.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor/Kismet/Public/WorkflowOrientedApp/WorkflowTabManager.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowTabFactory.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor\LevelEditor\Public\LevelEditorActions.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Classes\TexAligner/TexAligner.h
+D:\Games\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TexAligner.generated.h
+d:\games\epic games\ue_4.23\engine\source\editor\leveleditor\public\LightmapResRatioAdjust.h
+D:\Games\Epic Games\UE_4.23\Engine\Source\Editor\UnrealEd\Public\SourceCodeNavigation.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\pythoneditor\private\PythonProjectEditorCommands.h

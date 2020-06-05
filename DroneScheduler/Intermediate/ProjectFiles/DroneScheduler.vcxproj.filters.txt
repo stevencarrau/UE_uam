@@ -1,0 +1,1402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DroneScheduler.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D843BEAF-FDB4-441B-A9CF-F31B425326E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\CharacterPath.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{CD71AE1D-B156-4662-B5EE-DC7D810D4E9A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{3FB6DCBF-D305-4CDC-AFF1-BB0323E3F3CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UnrealEnginePython">
+      <UniqueIdentifier>{0908925F-3D00-4881-B0DC-FEE09FC86DC5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UnrealEnginePython\Source">
+      <UniqueIdentifier>{FEA68E8D-4481-4A4D-811A-184EAFEBAB09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UnrealEnginePython\Source\PythonAutomation">
+      <UniqueIdentifier>{5459B940-74E0-4DBC-9504-A7A81E65FCE3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealEnginePython\Source\PythonAutomation\PythonAutomation.Build.cs">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonAutomation</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealEnginePython\Source\PythonAutomation\Private">
+      <UniqueIdentifier>{EE25C161-340F-4039-9AE9-5ABDAD51DD0E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonAutomation\Private\PythonAutomationModule.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonAutomation\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonAutomation\Private\UEPyFAutomationEditorCommonUtils.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonAutomation\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonAutomation\Private\UEPyFAutomationEditorCommonUtils.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonAutomation\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\PythonAutomation\Public">
+      <UniqueIdentifier>{7A8238A2-EC73-494B-8005-13FA9DEC5C0D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonAutomation\Public\PythonAutomationModule.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonAutomation\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\UnrealEnginePython\UnrealEnginePython.uplugin">
+      <Filter>Plugins\UnrealEnginePython</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealEnginePython\Resources">
+      <UniqueIdentifier>{B88573C2-9351-4CCA-AC1E-E4F7845FD24C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\Icon128.png">
+      <Filter>Plugins\UnrealEnginePython\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealEnginePython\Resources\Font">
+      <UniqueIdentifier>{2CF49B2B-41C2-434F-9802-BEF21C4DB930}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\Font\DroidSansMono.ttf">
+      <Filter>Plugins\UnrealEnginePython\Resources\Font</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealEnginePython\Resources\UI">
+      <UniqueIdentifier>{C0C2E480-C87C-4BAC-953C-0CB520DAFA48}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\DeleteFile.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\Excute_x40.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\FolderClosed.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\FolderOpen.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\GenericFile.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\PythonEditor_16x.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\SaveAll_40x.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\Save_40x.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\TextBlockHighlightShape.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Resources\UI\TextEditorBorder.png">
+      <Filter>Plugins\UnrealEnginePython\Resources\UI</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealEnginePython\Source\PythonConsole">
+      <UniqueIdentifier>{7D871E1A-5032-4225-B3D9-14101D51ACE0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\PythonConsole.Build.cs">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealEnginePython\Source\PythonConsole\Private">
+      <UniqueIdentifier>{B4EEC9E2-75E0-48A9-8D88-4F722E562D77}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Private\PyFbxFactory.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Private\PythonConsoleModule.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Private\PythonScriptFactory.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Private\SPythonConsole.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Private\SPythonConsole.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Private\SPythonLog.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Private\SPythonLog.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\PythonConsole\Public">
+      <UniqueIdentifier>{6A9BD396-2CD9-42A8-9D1D-D44827821DCD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Public\PyFactory.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Public\PyFbxFactory.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Public\PythonConsoleModule.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonConsole\Public\PythonScriptFactory.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonConsole\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\PythonEditor">
+      <UniqueIdentifier>{9288150D-2967-4B6D-BE63-4F6AA5FCE993}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\PythonEditor.Build.cs">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealEnginePython\Source\PythonEditor\Private">
+      <UniqueIdentifier>{68E5DEC6-3132-4E0D-AF46-D09E4F8FB275}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\DirectoryScanner.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\DirectoryScanner.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PYRichTextSyntaxHighlighterTextLayoutMarshaller.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PYRichTextSyntaxHighlighterTextLayoutMarshaller.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonEditor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonEditorCustomization.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonEditorCustomization.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonEditorStyle.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonEditorStyle.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProject.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProject.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProjectEditor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProjectEditor.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProjectEditorCommands.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProjectEditorCommands.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProjectEditorToolbar.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProjectEditorToolbar.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProjectItem.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonProjectItem.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonSyntaxTokenizer.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\PythonSyntaxTokenizer.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\SProjectViewItem.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\SProjectViewItem.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\SPythonEditableText.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\SPythonEditableText.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\SPythonEditor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\SPythonEditor.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\SPythonProjectEditor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\SPythonProjectEditor.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\WhiteSpaceTextRun.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\PythonEditor\Private\WhiteSpaceTextRun.h">
+      <Filter>Plugins\UnrealEnginePython\Source\PythonEditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython">
+      <UniqueIdentifier>{BA146FE6-ABAA-410C-A4D5-75BA0594A160}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\UnrealEnginePython.Build.cs">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython</Filter>
+    </None>
+    <None Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\UnrealEnginePython_APL.xml">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython</Filter>
+    </None>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private">
+      <UniqueIdentifier>{09C1FA18-EFA4-4CE3-8D4F-6A5B8D58AB57}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PyActor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PyCharacter.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PyCommandlet.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PyHUD.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PyNativeWidgetHost.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PyPawn.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PythonBlueprintFunctionLibrary.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PythonComponent.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PythonDelegate.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PythonFunction.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PythonHouseKeeper.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PythonScript.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PythonSmartDelegate.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\PyUserWidget.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyAssetUserData.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyAssetUserData.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyCallable.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyCallable.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyEditor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyEditor.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyEngine.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyEngine.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyEnumsImporter.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyEnumsImporter.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyIPlugin.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyIPlugin.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyModule.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyModule.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPySubclassing.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyTicker.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyTicker.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyTimer.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyTimer.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyUClassesImporter.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyUClassesImporter.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyUScriptStruct.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyUScriptStruct.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyUStructsImporter.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyUStructsImporter.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyVisualLogger.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UEPyVisualLogger.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UnrealEnginePython.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Blueprint">
+      <UniqueIdentifier>{6576A894-C0B8-4E29-8D41-D2A157002B87}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Blueprint\UEPyEdGraph.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Blueprint</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Blueprint\UEPyEdGraph.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Blueprint</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Blueprint\UEPyEdGraphPin.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Blueprint</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Blueprint\UEPyEdGraphPin.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Blueprint</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\CollectionManager">
+      <UniqueIdentifier>{BBD502C4-241F-4A4E-A283-121A793AFE2B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\CollectionManager\UEPyICollectionManager.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\CollectionManager</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\CollectionManager\UEPyICollectionManager.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\CollectionManager</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\ConsoleManager">
+      <UniqueIdentifier>{40A9F642-B6F7-459E-A7D1-EAD71A2551C1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\ConsoleManager\UEPyIConsoleManager.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\ConsoleManager</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\ConsoleManager\UEPyIConsoleManager.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\ConsoleManager</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx">
+      <UniqueIdentifier>{08124274-D022-415A-B3C2-F1558371D47E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbx.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxImporter.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxImporter.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxIOSettings.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxIOSettings.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxManager.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxManager.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxMesh.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxMesh.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxNode.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxNode.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxObject.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxObject.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxPose.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxPose.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxProperty.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxProperty.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxScene.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx\UEPyFbxScene.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Fbx</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http">
+      <UniqueIdentifier>{92A19BB6-22DE-4234-AA94-E503EF9D304C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http\UEPyIHttp.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http\UEPyIHttpBase.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http\UEPyIHttpBase.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http\UEPyIHttpRequest.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http\UEPyIHttpRequest.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http\UEPyIHttpResponse.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http\UEPyIHttpResponse.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Http</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\MaterialEditorUtilities">
+      <UniqueIdentifier>{5FBD9B3B-E2BE-4540-B1ED-00652DEFBD3B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\MaterialEditorUtilities\UEPyFMaterialEditorUtilities.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\MaterialEditorUtilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\MaterialEditorUtilities\UEPyFMaterialEditorUtilities.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\MaterialEditorUtilities</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate">
+      <UniqueIdentifier>{DAD97E5D-2EB8-4123-AE72-160416700FF5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFCharacterEvent.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFCharacterEvent.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFGeometry.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFGeometry.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFInputEvent.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFInputEvent.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFKeyEvent.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFKeyEvent.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFMenuBuilder.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFMenuBuilder.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFModifierKeysState.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFModifierKeysState.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFPaintContext.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFPaintContext.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFPointerEvent.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFPointerEvent.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFSlateIcon.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFSlateIcon.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFSlateStyleSet.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFSlateStyleSet.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFTabManager.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFTabManager.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFTabSpawnerEntry.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFTabSpawnerEntry.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFToolBarBuilder.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyFToolBarBuilder.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyIDetailsView.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyIDetailsView.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyIStructureDetailsView.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPyIStructureDetailsView.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySAssetDropTarget.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySAssetDropTarget.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySBorder.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySBorder.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySBoxPanel.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySBoxPanel.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySButton.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySButton.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySCanvas.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySCanvas.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySCheckBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySCheckBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySColorBlock.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySColorBlock.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySCompoundWidget.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySCompoundWidget.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySDirectoryPicker.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySDirectoryPicker.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySDockTab.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySDockTab.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySDropTarget.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySDropTarget.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySEditableTextBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySEditableTextBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySEditorViewport.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySEditorViewport.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySFilePathPicker.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySFilePathPicker.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySGraphEditor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySGraphEditor.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySGraphPanel.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySGraphPanel.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySGridPanel.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySGridPanel.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySHeaderRow.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySHeaderRow.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySHorizontalBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySHorizontalBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySImage.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySImage.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySlate.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySlate.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySlateDelegate.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySlatePythonItem.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySLeafWidget.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySLeafWidget.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySLevelViewport.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySLevelViewport.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySListView.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySListView.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySMultiLineEditableText.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySMultiLineEditableText.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySNodePanel.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySNodePanel.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySNumericEntryBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySNumericEntryBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySObjectPropertyEntryBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySObjectPropertyEntryBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySOverlay.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySOverlay.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPanel.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPanel.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySProgressBar.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySProgressBar.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonComboBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonComboBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonEditorViewport.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonEditorViewport.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonListView.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonListView.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonMultiColumnTableRow.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonMultiColumnTableRow.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonShelf.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonShelf.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonTreeView.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonTreeView.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonWidget.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySPythonWidget.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySRotatorInputBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySRotatorInputBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySScrollBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySScrollBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySSlider.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySSlider.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySSpacer.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySSpacer.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySSplitter.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySSplitter.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySTableViewBase.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySTableViewBase.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySTextBlock.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySTextBlock.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySTreeView.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySTreeView.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySVectorInputBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySVectorInputBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySVerticalBox.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySVerticalBox.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySViewport.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySViewport.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySWidget.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySWidget.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySWindow.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate\UEPySWindow.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Slate</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\SlateApplication">
+      <UniqueIdentifier>{BAC7AABB-007D-4947-B7F7-4051425FA7D4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\SlateApplication\UEPyFSlateApplication.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\SlateApplication</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\SlateApplication\UEPyFSlateApplication.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\SlateApplication</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject">
+      <UniqueIdentifier>{5309BF37-2F8C-4815-BA25-D493A8503A2C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyActor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyActor.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyAnimSequence.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyAnimSequence.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyAttaching.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyAttaching.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyAudio.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyAudio.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyCapture.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyCapture.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyController.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyController.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyDataTable.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyDataTable.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyExporter.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyExporter.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyFoliage.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyFoliage.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyHUD.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyHUD.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyInput.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyInput.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyLandscape.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyLandscape.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyMaterial.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyMaterial.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyMovements.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyMovements.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyNavigation.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyNavigation.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyObject.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyObject.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyPackage.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyPackage.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyPawn.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyPawn.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyPhysics.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyPhysics.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyPlayer.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyPlayer.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPySequencer.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPySequencer.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPySkeletal.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPySkeletal.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPySpline.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPySpline.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyStaticMesh.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyStaticMesh.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyTexture.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyTexture.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyTraceAndSweep.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyTraceAndSweep.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyTransform.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyTransform.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyUserDefinedStruct.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyUserDefinedStruct.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyViewport.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyViewport.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyWidget.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyWidget.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyWidgetComponent.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyWidgetComponent.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyWorld.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject\UEPyWorld.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\UObject</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Voice">
+      <UniqueIdentifier>{A61F0063-CAC8-4E68-98DB-0F132F84D4FE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Voice\UEPyIVoiceCapture.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Voice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Voice\UEPyIVoiceCapture.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Voice</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers">
+      <UniqueIdentifier>{99573EFA-1DAB-4507-95C1-F13A16F1AACC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyESlateEnums.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyESlateEnums.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFARFilter.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFARFilter.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFAssetData.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFAssetData.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFColor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFColor.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFEditorViewportClient.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFEditorViewportClient.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFFoliageInstance.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFFoliageInstance.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFFrameNumber.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFFrameNumber.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFHitResult.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFHitResult.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFLinearColor.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFLinearColor.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFMorphTargetDelta.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFMorphTargetDelta.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFObjectThumbnail.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFObjectThumbnail.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFPythonOutputDevice.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFPythonOutputDevice.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFQuat.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFQuat.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFRandomStream.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFRandomStream.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFRawAnimSequenceTrack.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFRawAnimSequenceTrack.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFRawMesh.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFRawMesh.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFRotator.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFRotator.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFSlowTask.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFSlowTask.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFSocket.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFSocket.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFSoftSkinVertex.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFSoftSkinVertex.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFStringAssetReference.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFStringAssetReference.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFTransform.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFTransform.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFVector.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFVector.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFVector2D.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFVector2D.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFViewportClient.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyFViewportClient.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyIAssetEditorInstance.cpp">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers\UEPyIAssetEditorInstance.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Private\Wrappers</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public">
+      <UniqueIdentifier>{B8CAB37F-557C-4889-82A9-A72F28F4CB75}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PyActor.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PyCharacter.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PyCommandlet.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PyHUD.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PyNativeWidgetHost.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PyPawn.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonBlueprintFunctionLibrary.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonClass.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonComponent.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonDelegate.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonFunction.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonHouseKeeper.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonScript.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PythonSmartDelegate.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\PyUserWidget.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\UnrealEnginePython.h">
+      <Filter>Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyProject">
+      <UniqueIdentifier>{BF17C823-8FA5-4EA4-BAD3-9FF92F84C025}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject\Location.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\Location.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\MyActor.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\MyActor.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyProject\MyProject.Build.cs">
+      <Filter>Source\MyProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject\MyProject.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\MyProject.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyProject\Private">
+      <UniqueIdentifier>{AF389638-D4C9-4226-8C52-035C68E016B2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject\Private\TextReader.cpp">
+      <Filter>Source\MyProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject\Private\TextReaderLibrary.cpp">
+      <Filter>Source\MyProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyProject\Public">
+      <UniqueIdentifier>{10747017-0969-4254-AD2E-97EEC7FCBDC6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyProject\Public\TextReader.h">
+      <Filter>Source\MyProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyProject\Public\TextReaderLibrary.h">
+      <Filter>Source\MyProject\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,70 @@
+VTOL_BP52: 
+Tower Waiting Times: 
+CT1: 0.010282 
+CT5: 0.0 
+CT2: 0.501565 
+
+VTOL_BP30: 
+Tower Waiting Times: 
+CT3: 0.009665 
+CT1: 0.335472 
+
+VTOL_BP69: 
+Tower Waiting Times: 
+CT2: 0.010282 
+CT5: 0.0 
+CT1: 0.501565 
+CT3: 0.663577 
+
+VTOL_BP78: 
+Tower Waiting Times: 
+CT1: 0.009664 
+CT5: 2.840424 
+
+VTOL_BP77: 
+Tower Waiting Times: 
+CT3: 0.019234 
+CT4: 0.0 
+CT2: 1.509025 
+
+VTOL_BP88: 
+Tower Waiting Times: 
+CT6: 0.019211 
+CT3: 0.0 
+CT4: 1.00981 
+
+VTOL_BP23: 
+Tower Waiting Times: 
+CT5: 2.530265 
+CT2: 3.869355 
+CT4: 0.506235 
+
+VTOL_BP85: 
+Tower Waiting Times: 
+CT2: 0.009665 
+CT4: 0.0 
+CT3: 5.559126 
+
+VTOL_BP59: 
+Tower Waiting Times: 
+CT2: 2.543566 
+CT5: 0.0 
+CT1: 0.796242 
+
+VTOL_BP14: 
+Tower Waiting Times: 
+CT1: 0.009806 
+CT5: 3.874489 
+CT2: 3.314915 
+
+VTOL_BP94: 
+Tower Waiting Times: 
+CT2: 2.039102 
+CT4: 2.522026 
+
+VTOL_BP9: 
+Tower Waiting Times: 
+CT6: 0.019493 
+CT3: 7.403081 
+CT4: 5.843426 
+
